@@ -18,6 +18,12 @@
 
 ## Experimental design
 
+- "No amount of statistical maneuvering will get very far without some understanding of how the data were produced."
+
+  - David A. Freedman & Richard A. Berk (2005)
+  
+  - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+
 - "Block what you can and randomize what you cannot."
 
   - George E.P. Box, William G. Hunter, and J. Stuart Hunter (1978)
@@ -50,6 +56,12 @@
   
   - *Regression Modeling Strategies, with Applications to Linear Models, Logistic Regression, and Survival Analysis*. Springer.
   
+- "The independence assumption...is fragile as a statistical matter, because modest violations of independence may have major consequences while being nearly impossible to detect....Even modest violations of independence can introduce substantial biases into conventional procedures."
+
+  - David A. Freedman & Richard A. Berk (2005)
+  
+  - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+  
 ## Categorical data
 
 - "Cross-tabulation before regression." 
@@ -64,10 +76,23 @@
 
   - Sir Richard Peto
   
+## Statistical inferences
+
+- "At the risk of the obvious, inferences to imaginary populations are also imaginary."
+
+  - David A. Freedman & Richard A. Berk (2005)
+  
+  - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+  
 ## Statistical conclusions
 
 - "Absence of evidence is not evidence of absence."
 
+- "Generally, replication and prediction of new results provide a harsher and more useful validating regime than statistical testing of many models on one data set.  Fewer assumptions are needed, there is less chance of artifact, more kinds of variation can be explored, and alternative explanations can be ruled out."
+
+  - David A. Freedman (1991)
+  
+  - Statistical models and shoe leather.  *Sociological Methodology*, 21:  291-313.
 
 ## Statistical consulting
 
@@ -94,6 +119,12 @@
 
 
 ## Mathematics
+
+- "Does anyone believe that the difference between the Lebesgue and Riemann integrals can have physical significance, and that whether say, an airplane would or would not fly could depend on this difference? If such were claimed, I should not care to fly in that plane."
+
+  - Richard W. Hamming (1998)
+  
+  - Mathematics on a distant planet.  *American Mathematical Monthly*, 105:  640-650.
 
 
 ## Computing
