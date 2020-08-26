@@ -4,6 +4,12 @@
 
   - Frederick Mosteller
 
+- "The aim of basic research is not to produce statistically valid results but to study new phenomena. An evaluation of experimental findings depends on many factors, such as compatibility with other results, predictions to which it leads and so on—such evidence can rarely be evaluated statistically."
+
+  - William Feller (1969)
+  
+  - Are Life Scientists Overawed by Statistics? (Too Much Faith in Statistics), *Scientific Research*, 4, 24–29.
+
 ## Data
 
 - "Without data, everyone is an expert."
@@ -18,17 +24,38 @@
 
 ## Experimental design
 
+- "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs" rather than null hypothesis testing.
+
+  - William Feller (1967)
+  
+  - Are Life Scientists Overawed by Statistics? (Too Much Faith in Statistics), *Scientific Research*, 4, 24–29.
+
 - "No amount of statistical maneuvering will get very far without some understanding of how the data were produced."
 
   - David A. Freedman & Richard A. Berk (2005)
   
   - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+  
 
 - "Block what you can and randomize what you cannot."
 
   - George E.P. Box, William G. Hunter, and J. Stuart Hunter (1978)
   
   - *Statistics for Experimenters:  An Introduction to Design, Data Analysis, and Model Building*.  Wiley.
+
+## Exploratory and confirmatory
+
+- "Exploratory data analysis is detective work—numerical detective work—or counting detective work—or graphical detective work.”
+
+  - John W. Tukey (1977)
+  
+  - *Exploratory Data Analysis*.  Addison-Wesley.
+
+- "We’re talking about asking authors, ‘Is this hypothesis testing or exploratory?’ An exploratory study explores new questions rather than tests an existing hypothesis. But scientists have felt that they had to disguise an exploratory study as hypothesis testing and that is totally dishonest. I have no problem with true exploratory science. That is what I did most of my career. But it is important that scientists call it as such and not try to pass it off as something else."
+
+  - Marcia McNutt (2016)
+  
+  - *Science*, 353, 116–119.
 
 ## Correlation
 
@@ -56,11 +83,7 @@
   
   - *Regression Modeling Strategies, with Applications to Linear Models, Logistic Regression, and Survival Analysis*. Springer.
   
-- "The independence assumption...is fragile as a statistical matter, because modest violations of independence may have major consequences while being nearly impossible to detect....Even modest violations of independence can introduce substantial biases into conventional procedures."
 
-  - David A. Freedman & Richard A. Berk (2005)
-  
-  - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
 ## Categorical data
 
@@ -84,9 +107,18 @@
   
   - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
+- Null hypothesis significance testing "often amounts to uncertainty laundering. Any study, no matter how poorly designed and conducted, can lead to statistical significance and thus a declaration of truth or falsity. NHST was supposed to protect researchers from over-interpreting noisy data. Now it has the opposite effect."
+
+  - Blakeley B. McShane and Andrew Gelman (2017)
+  
+  - Five ways to fix statistics.  *Nature*, 551:  557-559.
+  
+
 ## Statistical conclusions
 
 - "Absence of evidence is not evidence of absence."
+
+  - Unknown
 
 - "Generally, replication and prediction of new results provide a harsher and more useful validating regime than statistical testing of many models on one data set.  Fewer assumptions are needed, there is less chance of artifact, more kinds of variation can be explored, and alternative explanations can be ruled out."
 
