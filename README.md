@@ -1,0 +1,2 @@
+# statquotes
+Favorite statistics quotes
