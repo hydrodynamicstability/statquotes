@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+## Statistics
 
-You can use the [editor on GitHub](https://github.com/hydrodynamicstability/statquotes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- "It is easy to lie with statistics, but it is easier to lie without them." 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - Frederick Mosteller
 
-### Markdown
+## Data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- "Without data, everyone is an expert."
 
-```markdown
-Syntax highlighted code block
+  - Ronald D. Snee (1986)
+  
+  - In pursuit of total quality. *Quality Progress*, 20 (8): 25-31.
 
-# Header 1
-## Header 2
-### Header 3
+- "Data, if it is of poor quality, becomes a pollutant to clear thinking and rational decisions."
 
-- Bulleted
-- List
+  - J. Stuart Hunter
 
-1. Numbered
-2. List
+## Correlation
 
-**Bold** and _Italic_ and `Code` text
+- "...most correlation coefficients should never be calculated." 
 
-[Link](url) and ![Image](src)
-```
+  - John W. Tukey (1954)
+  
+  - Causation, regression, and path analysis. In *Statistics and Mathematics in Biology*, ed. by O. Kempthorne, T.A. Bancroft, J.W. Gowen, and J.L. Lush. Iowa State College Press, pp. 35-66.
+
+## Statistical modeling
+
+- "Essentially, all models are wrong, but some are useful." 
+
+  - George E.P. Box
+  
+- "I wish we could learn to look at the data more directly, without the fictional models and priors. On the same wish-list: We should stop pretending to fix bad designs and inadequate measurements by modeling." 
+
+  - David A. Freedman (1995)
+  
+  - Issues in the foundations of statistics: probability and statistical models. *Foundations of Science*, 1: 19-39.
+  
+- "Using the data to guide the data analysis is almost as dangerous as not doing so." 
+ 
+  - Frank E. Harrell, Jr. (2001)
+  
+  - *Regression Modeling Strategies, with Applications to Linear Models, Logistic Regression, and Survival Analysis*. Springer.
+  
+## Categorical data
+
+- "Cross-tabulation before regression." 
+
+  - David A. Freedman (2008)
+  
+  - Randomization does not justify logistic regression. *Statistical Science*, 23: 237-249.
+
+## Subgroup analyses
+
+- "You should always do them but you should never believe them." 
+
+  - Sir Richard Peto
+  
+## Statistical conclusions
+
+- "Absence of evidence is not evidence of absence."
+
+
+## Statistical consulting
+
+- "Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise." 
+
+  - John Tukey (1962)
+  
+  - The future of data analysis. *Annals of Mathematical Statistics*, 33: 1-67.
+
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hydrodynamicstability/statquotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
