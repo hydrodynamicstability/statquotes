@@ -138,6 +138,11 @@
   
   - The future of data analysis. *Annals of Mathematical Statistics*, 33: 1-67.
 
+- "To call in the statistician after the experiment is done may be no more than asking him to perform a post-mortem examination: he may be able to say what the experiment died of."
+
+  - Ronald A. Fisher (1938)
+  
+  - Presidential Address.  *Sankhya: The Indian Journal of Statistics*, 4 (1):  14-17.
 
 ## Probability
 
@@ -171,7 +176,9 @@
   
   - *Numerical Methods for Scientists and Engineers*.  McGraw-Hill.
 
+- "A big computer, a complex algorithm and a long time does not equal science."
 
+  - Robert Gentleman
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
