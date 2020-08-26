@@ -16,6 +16,14 @@
 
   - J. Stuart Hunter
 
+## Experimental design
+
+- "Block what you can and randomize what you cannot."
+
+  - George E.P. Box, William G. Hunter, and J. Stuart Hunter (1978)
+  
+  - *Statistics for Experimenters:  An Introduction to Design, Data Analysis, and Model Building*.  Wiley.
+
 ## Correlation
 
 - "...most correlation coefficients should never be calculated." 
@@ -70,6 +78,31 @@
   - The future of data analysis. *Annals of Mathematical Statistics*, 33: 1-67.
 
 
+## Probability
+
+- "Probability does not exist."
+
+  - Bruno de Finetti (1970)
+  
+  - *Teoria delle Probabilita*.  Einaudi.
+  
+- "I doubt that the theory of probability can be reduced to either mathematics or computing, though there are people who claim to have done so."
+
+  - Richard W. Hamming (1991)
+  
+  - *The Art of Probability for Scientists and Engineers*.  Perseus.
+
+
+## Mathematics
+
+
+## Computing
+
+- "The purpose of computing is insight, not numbers."
+
+  - Richard W. Hamming (1962)
+  
+  - *Numerical Methods for Scientists and Engineers*.  McGraw-Hill.
 
 
 
