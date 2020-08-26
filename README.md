@@ -42,6 +42,10 @@
   - George E.P. Box, William G. Hunter, and J. Stuart Hunter (1978)
   
   - *Statistics for Experimenters:  An Introduction to Design, Data Analysis, and Model Building*.  Wiley.
+  
+- "If your experiment needs statistics, you ought to have done a better experiment."
+
+  - Lord Ernest Rutherford, 1908 Nobel Laureate in Chemistry
 
 ## Exploratory and confirmatory
 
