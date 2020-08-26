@@ -1,1 +1,8 @@
 theme: jekyll-theme-midnight
+
+plugins:
+  - jemoji
+
+title:  Some Favorite Statistics Quotes
+
+description:  Selected by C. Tong
