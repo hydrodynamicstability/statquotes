@@ -20,7 +20,9 @@
 
 - "Data, if it is of poor quality, becomes a pollutant to clear thinking and rational decisions."
 
-  - J. Stuart Hunter
+  - J. Stuart Hunter (1980)
+  
+  - The national system of scientific measurement.  *Science*, 210:  869-874.
 
 - "Data are not just numbers, they are numbers with a context."
 
@@ -131,6 +133,18 @@
   
   - Nonparametric statistics.  *J. Amer. Stat. Assoc.*, 52:  331-334.
 
+- "We do not perform an experiment to find out if two varieties of wheat or two drugs are equal.  We know in advance, without spending a dollar on an experiment, that they are not equal.  The difference beween two treatments or between two areas or two groups of people, will show up as 'significantly different' if the experiment be conducted through a sufficient number of trials, even though the difference be so small that it is of no scientific or economic consequence."
+
+  - W. Edwards Deming (1975)
+  
+  - On probability as a basis for action.  *American Statistician*, 29:  146-152.
+  
+- "Statisticians classically asked the wrong question--and were willing to answer with a lie, one that was often a downright lie.  They asked 'Are the effects of A and B different?' and they were willing to answer 'no'.  All we know about the world teaches us that the effects of A and B are always different--in some decimal place--for any A and B.  Thus asking 'Are the effects different?' is foolish."
+
+  - John W. Tukey (1991)
+  
+  - The philosphy of multiple comparisons.  *Statistical Science*, 6:  100-116.
+
 - NHST "often amounts to uncertainty laundering. Any study, no matter how poorly designed and conducted, can lead to statistical significance and thus a declaration of truth or falsity. NHST was supposed to protect researchers from over-interpreting noisy data. Now it has the opposite effect."
 
   - Blakeley B. McShane and Andrew Gelman (2017)
@@ -151,6 +165,12 @@
   - Statistical models and shoe leather.  *Sociological Methodology*, 21:  291-313.
 
 ## Statistical consulting
+
+- "A simple and almost ludicrous definition of the error of the third kind is *the error committed by giving the right answer to the wrong problem*.  In defining it this way we are allowing the statistician the benefit of the doubt by rejecting the possibility that he would give the wrong answer to the wrong question."
+
+  - Allyn W. Kimball (1957)
+  
+  - Errors of the third kind in statisical consulting.  *J. Amer. Stat. Assoc.*, 52:  133-142.
 
 - "Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise." 
 
