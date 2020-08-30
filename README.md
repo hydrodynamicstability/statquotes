@@ -29,6 +29,12 @@
   - George W. Cobb and David S. Moore (1997)
   
   - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
+  
+- "My experience with data analysis indicates to me that problems with the data themselves are usually more numerous and more serious than problems with methodology."
+ 
+  - John C. Bailar, III (1976)
+  
+  - Bailar's laws of data analysis.  *Clinical Pharmacology and Therapeutics*, 20:  113-119.
 
 ## Experimental design
 
@@ -183,6 +189,12 @@
   - Ronald A. Fisher (1938)
   
   - Presidential Address.  *Sankhya: The Indian Journal of Statistics*, 4 (1):  14-17.
+  
+- "It's easier to get involved than it is to extricate yourself."
+
+  - John C. Bailar, III (1976)
+  
+  - Bailar's laws of data analysis.  *Clinical Pharmacology and Therapeutics*, 20:  113-119.
 
 ## Probability
 
