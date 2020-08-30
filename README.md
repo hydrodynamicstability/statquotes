@@ -111,7 +111,16 @@
   
   - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
-- Null hypothesis significance testing "often amounts to uncertainty laundering. Any study, no matter how poorly designed and conducted, can lead to statistical significance and thus a declaration of truth or falsity. NHST was supposed to protect researchers from over-interpreting noisy data. Now it has the opposite effect."
+  
+## Null hypothesis significance testing (NHST)
+
+- "Null hypotheses of no difference are usually known to be false before the data are collected....when they are, their rejection or acceptance simply reflects the size of the sample and the power of the test, and is not a contribution to science."
+
+  - I. Richard Savage (1957)
+  
+  - Nonparametric statistics.  *J. Amer. Stat. Assoc.*, 52:  331-334.
+
+- NHST "often amounts to uncertainty laundering. Any study, no matter how poorly designed and conducted, can lead to statistical significance and thus a declaration of truth or falsity. NHST was supposed to protect researchers from over-interpreting noisy data. Now it has the opposite effect."
 
   - Blakeley B. McShane and Andrew Gelman (2017)
   
@@ -180,6 +189,23 @@
 
   - Robert Gentleman
 
+## Statisticians and Physicisists
+
+- "The best thing about being a statistician is that you get to play in everyone's backyard."
+
+  - John W. Tukey
+
+## Should I be a statistician?
+
+Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contributions to statistics and statistical computing and probability and pedagogy.  What advice would you give to a young person today who wants to continue in your traditions?  What should he or she study and why?"
+
+Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell them is, 'Don't go into statistics.'  My feeling is, to some extent, that academic statisics may have lost its way."
+
+(From A Conversation with Leo Breiman, *Statistical Science*, 16:  184-198.)
+
+## Miscellaneous
+
+See [Meredith G. Warshaw's Field Guide to Atypical Statistics](http://www.uniquelygifted.org/fieldguide.htm).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
