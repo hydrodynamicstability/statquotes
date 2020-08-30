@@ -22,6 +22,12 @@
 
   - J. Stuart Hunter
 
+- "Data are not just numbers, they are numbers with a context."
+
+  - George W. Cobb and David S. Moore (1997)
+  
+  - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
+
 ## Experimental design
 
 - "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs" rather than null hypothesis testing.
@@ -36,6 +42,11 @@
   
   - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
+- "Statistical ideas for producing data to answer specific questions are the most influential contributions of statistics to human knowledge.  Badly designed data production is the most common serious flaw in statistical studies.  Well designed data production allows us to apply standard methods of analysis and reach clear conclusions.  Professional statisticians are paid for their expertise in designing studies; if the study is well designed (and no unanticipated disaster occurred), you don't need a professional to do the analysis.  In other words, the design of data production is *really* important.  If you just say 'Suppose X_1 to X_n are iid observations,' you aren't teaching statistics."
+
+  - George W. Cobb and David S. Moore (1997)
+  
+  - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
 
 - "Block what you can and randomize what you cannot."
 
