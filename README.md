@@ -195,6 +195,12 @@
 
   - John W. Tukey
 
+- "Somebody was telling me yesterday that they're making 1400 physics Ph.D.'s a year in this country and there aren't going to be that many who do theoretical physics [after they graduate].  On the other hand, theoretical physicists, it's been well established, can be converted to almost anything....And I don't think we'd get away with training 1400 Ph.D.'s a year in statistics and have most of them leave and go into all sorts of other things."
+
+  - John W. Tukey (1997)
+  
+  - A conversation with John Tukey.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
+
 ## Should I be a statistician?
 
 Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contributions to statistics and statistical computing and probability and pedagogy.  What advice would you give to a young person today who wants to continue in your traditions?  What should he or she study and why?"
