@@ -74,6 +74,12 @@
   
   - *Exploratory Data Analysis*.  Addison-Wesley.
 
+- "Exploratory data analysis is an attitude, a flexibility, and a reliance on display, NOT a bundle of techniques, and should be so taught.  Confirmatory data analysis, by contrast, is easier to teach and easier to computerize.  We need to teach both; to think about science and engineering more broadly; to be prepared to randomize and avoid multiplicity."
+
+  - John W. Tukey (1980)
+  
+  = We need both exploratory and confirmatory.  *American Statistician*, 34, 23-25.
+
 - "We’re talking about asking authors, ‘Is this hypothesis testing or exploratory?’ An exploratory study explores new questions rather than tests an existing hypothesis. But scientists have felt that they had to disguise an exploratory study as hypothesis testing and that is totally dishonest. I have no problem with true exploratory science. That is what I did most of my career. But it is important that scientists call it as such and not try to pass it off as something else."
 
   - Marcia McNutt (2016), now President of the National Academy of Sciences.
