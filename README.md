@@ -119,6 +119,12 @@
   
   - Issues in the foundations of statistics: probability and statistical models. *Foundations of Science*, 1: 19-39.
   
+- "I am deeply troubled by the current and past use of data models in applications, where quantitative conclusions are drawn and perhaps policy decisions are made."
+
+  - Leo Breiman (2001)
+  
+  - Statistical modeling:  the two cultures.  *Statistical Science*, 16:  199-231.
+  
 - "Using the data to guide the data analysis is almost as dangerous as not doing so." 
  
   - Frank E. Harrell, Jr. (2001)
@@ -257,7 +263,7 @@
 
   - Robert Gentleman
 
-## Statisticians and Physicisists
+## Statisticians, Physicisists, and Social Science
 
 - "The best thing about being a statistician is that you get to play in everyone's backyard."
 
@@ -268,6 +274,12 @@
   - John W. Tukey (1997)
   
   - A conversation with John Tukey.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
+
+- "Thou shalt not sit with statisticians nor commit a social science."
+
+  - W. H. Auden (1946)
+  
+  - *Under Which Lyre*
 
 ## Should I be a statistician?
 
