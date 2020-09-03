@@ -38,9 +38,9 @@
 
 ## Experimental design
 
-- "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs" rather than null hypothesis testing.
+- "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs.  But all too frequently statisticians impose all kinds of nonsensical conditions on the poor biologist or psychologist--conditions which, although they produce unequivocal statistical results, actually hinder him in his research."
 
-  - William Feller (1967)
+  - William Feller (1969)
   
   - Are Life Scientists Overawed by Statistics? (Too Much Faith in Statistics), *Scientific Research*, 4, 24–29.
 
@@ -76,7 +76,7 @@
 
 - "We’re talking about asking authors, ‘Is this hypothesis testing or exploratory?’ An exploratory study explores new questions rather than tests an existing hypothesis. But scientists have felt that they had to disguise an exploratory study as hypothesis testing and that is totally dishonest. I have no problem with true exploratory science. That is what I did most of my career. But it is important that scientists call it as such and not try to pass it off as something else."
 
-  - Marcia McNutt (2016)
+  - Marcia McNutt (2016), now President of the National Academy of Sciences.
   
   - *Science*, 353, 116–119.
 
