@@ -10,6 +10,12 @@
   
   - Are Life Scientists Overawed by Statistics? (Too Much Faith in Statistics), *Scientific Research*, 4, 24–29.
 
+- "Data analysis has its major uses.  They are detective work and guidance counseling.  We should all act accordingly."
+
+  - John W. Tukey (1969)
+  
+  - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
+
 ## Data
 
 - "Without data, everyone is an expert."
@@ -78,7 +84,7 @@
 
   - John W. Tukey (1980)
   
-  = We need both exploratory and confirmatory.  *American Statistician*, 34, 23-25.
+  - We need both exploratory and confirmatory.  *American Statistician*, 34 23-25.
 
 - "We’re talking about asking authors, ‘Is this hypothesis testing or exploratory?’ An exploratory study explores new questions rather than tests an existing hypothesis. But scientists have felt that they had to disguise an exploratory study as hypothesis testing and that is totally dishonest. I have no problem with true exploratory science. That is what I did most of my career. But it is important that scientists call it as such and not try to pass it off as something else."
 
@@ -93,6 +99,13 @@
   - John W. Tukey (1954)
   
   - Causation, regression, and path analysis. In *Statistics and Mathematics in Biology*, ed. by O. Kempthorne, T.A. Bancroft, J.W. Gowen, and J.L. Lush. Iowa State College Press, pp. 35-66.
+  
+- "Why then are correlation coefficients so attractive?  Only bad reasons seem to come to mind.  Worst of all, probably, is the absence of any need to think about units for either variable....Being so disinterested in our variables that we do not care about their units can hardly be desirable."
+
+  - John W. Tukey (1969)
+  
+  - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
+  
 
 ## Statistical modeling
 
@@ -169,6 +182,12 @@
 - "Absence of evidence is not evidence of absence."
 
   - Unknown
+
+- "Confirmation comes from repetition.  Any attempt to avoid this statement leads at least to failure and more probably to destruction."
+
+  - John W. Tukey (1969)
+  
+  - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
 
 - "Generally, replication and prediction of new results provide a harsher and more useful validating regime than statistical testing of many models on one data set.  Fewer assumptions are needed, there is less chance of artifact, more kinds of variation can be explored, and alternative explanations can be ruled out."
 
