@@ -263,7 +263,7 @@
 
   - Robert Gentleman
 
-## Statisticians, Physicisists, and Social Science
+## Statisticians, Physicists, and Social Science
 
 - "The best thing about being a statistician is that you get to play in everyone's backyard."
 
@@ -292,6 +292,8 @@ Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell th
 ## Miscellaneous
 
 See [Meredith G. Warshaw's Field Guide to Atypical Statistics](http://www.uniquelygifted.org/fieldguide.htm).
+
+## Note on Github flavored markdown
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
