@@ -4,6 +4,12 @@
 
   - Frederick Mosteller
 
+- "Statistics is more a way of thinking or reasoning than a bunch of prescriptions for beating data to elicit answers."
+
+  - C. R. Rao (1997)
+  
+  - *Statistics and Truth:  Putting Chance to Work*.  World Scientific.
+
 - "The aim of basic research is not to produce statistically valid results but to study new phenomena. An evaluation of experimental findings depends on many factors, such as compatibility with other results, predictions to which it leads and so on—such evidence can rarely be evaluated statistically."
 
   - William Feller (1969)
