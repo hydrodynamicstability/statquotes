@@ -217,7 +217,7 @@
 
   - Arthur P. Dempster (1983)
   
-  - Purposes and limitations of data analysis.  In *Scientific Inference, Data Analysis, and Robustness*, ed. by G. E. P. Gox, T. Leonard, and C.-F. Wu.  Academic Press, 117-133.
+  - Purposes and limitations of data analysis.  In *Scientific Inference, Data Analysis, and Robustness*, ed. by G. E. P. Box, T. Leonard, and C.-F. Wu.  Academic Press, 117-133.
 
 ## Statistical consulting
 
