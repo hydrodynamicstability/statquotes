@@ -303,7 +303,7 @@
 
 Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contributions to statistics and statistical computing and probability and pedagogy.  What advice would you give to a young person today who wants to continue in your traditions?  What should he or she study and why?"
 
-Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell them is, 'Don't go into statistics.'  My feeling is, to some extent, that academic statisics may have lost its way."
+Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell them is, 'Don't go into statistics.'  My feeling is, to some extent, that academic statistics may have lost its way."
 
 (From A Conversation with Leo Breiman, *Statistical Science*, 16:  184-198.)
 
