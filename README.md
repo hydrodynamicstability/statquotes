@@ -211,7 +211,7 @@
 
   - Colin L. Mallows (1983)
   
-  - Data description.  In *Scientific Inference, Data Analysis, and Robustness*, ed. by G. E. P. Gox, T. Leonard, and C.-F. Wu.  Academic Press, 135-151.
+  - Data description.  In *Scientific Inference, Data Analysis, and Robustness*, ed. by G. E. P. Box, T. Leonard, and C.-F. Wu.  Academic Press, 135-151.
 
 - "How does one recognize a good statistical analysis?  Most evaluation of specific data analysis is anecdotal.  An example is briefly described, and the illustrated use of the technique is pronounced successful.  Critics find it all too easy to shift the burden of proof by pronouncing that most statistical analysis is useless or misleading.  The situation is paradoxical because data collection and analysis is a basic tool for evaluation, so that statisticians should be well equipped to construct systems for measuring and analyzing their own performance."
 
