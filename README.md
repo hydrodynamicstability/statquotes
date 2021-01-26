@@ -9,6 +9,12 @@
   - C. R. Rao (1997)
   
   - *Statistics and Truth:  Putting Chance to Work*.  World Scientific.
+  
+- "In particular, statisticians and other quantitatively trained personnel must avoid being seduced into believing that statistical thinking and tools are the total solution.  Statistics is certainly necessary but it is not sufficient.  Experience has shown that the use of statistical techniques has a limited impact unless its use is supported by a larger system such as total quality.  By institutionalizing total quality we help ensure the proper role and use of quality technology."
+ 
+  - Ronald D. Snee (1986)
+  
+  - In pursuit of total quality. *Quality Progress*, 20 (8): 25-31.
 
 - "The aim of basic research is not to produce statistically valid results but to study new phenomena. An evaluation of experimental findings depends on many factors, such as compatibility with other results, predictions to which it leads and so on—such evidence can rarely be evaluated statistically."
 
@@ -24,7 +30,7 @@
 
 ## Data
 
-- "Without data, everyone is an expert."
+- "[F]or without data, everyone is an expert.  Issues that generate great disagreement and controversy are usually those where little factual data exist."
 
   - Ronald D. Snee (1986)
   
@@ -277,9 +283,7 @@
   
   - *Numerical Methods for Scientists and Engineers*.  McGraw-Hill.
 
-- "A big computer, a complex algorithm and a long time does not equal science."
 
-  - Robert Gentleman
 
 ## Statisticians, Physicists, and Social Science
 
