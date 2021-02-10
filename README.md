@@ -283,7 +283,11 @@
   
   - *Numerical Methods for Scientists and Engineers*.  McGraw-Hill.
 
+- "Not all scientists are even informed users of the commercial packages they use (e.g., statistical analysis software)."
 
+  - Marcia McNutt (2020)
+  
+  - Self-correction by design.  *Harvard Data Science Review*, 2.4.
 
 ## Statisticians, Physicists, and Social Science
 
