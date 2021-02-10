@@ -268,6 +268,12 @@
 
 ## Mathematics
 
+- "The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve."
+
+  - Eugene P. Wigner (1960)
+  
+  - The unreasonable effetiveness of mathematics in the natural sciences.  *Communications in Pure and Applied Mathematics*, 13:  1-14.
+
 - "Does anyone believe that the difference between the Lebesgue and Riemann integrals can have physical significance, and that whether say, an airplane would or would not fly could depend on this difference? If such were claimed, I should not care to fly in that plane."
 
   - Richard W. Hamming (1998)
