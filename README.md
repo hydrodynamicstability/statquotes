@@ -330,6 +330,12 @@
   - John W. Tukey (1997)
   
   - A conversation with John Tukey.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
+  
+- "A future professional statistician needs a solid foundation in mathematics and in a science.  One reason for the first requirement is the actual need for mathematical proficiency, but only in part; it is just as important to inure him or her against being intimidated by mathematical fireworks.  The second provides the much needed understanding of the spirit prevailing in the sciences.  A very old-fashioned traditinal university education in physics, augmented by probability and statistics courses, may come closest to this ideal."
+
+  - Peter J. Huber (1997)
+  
+  - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
 
 - "Thou shalt not sit with statisticians nor commit a social science."
 
