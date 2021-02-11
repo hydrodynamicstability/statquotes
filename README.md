@@ -10,6 +10,12 @@
   
   - *Statistics and Truth:  Putting Chance to Work*.  World Scientific.
   
+- "Statistics is nothing more than a trivial exercise if it does not address real-world problems."
+
+  - Colin Mallows (2006)
+  
+  - Tukey's paper after 40 years.  *Technometrics*, 48:  319-325.
+  
 - "In particular, statisticians and other quantitatively trained personnel must avoid being seduced into believing that statistical thinking and tools are the total solution.  Statistics is certainly necessary but it is not sufficient.  Experience has shown that the use of statistical techniques has a limited impact unless its use is supported by a larger system such as total quality.  By institutionalizing total quality we help ensure the proper role and use of quality technology."
  
   - Ronald D. Snee (1986)
@@ -143,7 +149,11 @@
   
   - *Regression Modeling Strategies, with Applications to Linear Models, Logistic Regression, and Survival Analysis*. Springer.
   
+- "There is no methodology in traditional statistics for assessing the adequacy of a model!  The only thing orthodox frequentist theory can do about models is to reject them, and Bayesian statistics cannot even do that.  Nonrejection does not imply that the model is correct; it does not even tell one whether it adequately represents the data.  On the other hand, a rejected model might be perfectly adequate."
 
+  - Peter J. Huber (2006)
+  
+  - Discussion, Tukey's paper after 40 years.  *Technometrics*, 48:  332-334.
   
 ## Categorical data
 
@@ -280,6 +290,11 @@
   
   - Mathematics on a distant planet.  *American Mathematical Monthly*, 105:  640-650.
 
+- "[M]athematics is seductively easy compared with data analysis."
+
+  - Colin Mallows (2006)
+  
+  - Tukey's paper after 40 years.  *Technometrics*, 48:  319-325.
 
 ## Computing
 
