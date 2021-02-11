@@ -171,7 +171,7 @@
   
 ## Robust and resistant statistics
 
-- "The problem with it was and is that robustness is not a method, nor a collection of methods (although it is often misrepresented as such), but a concept stretching acrodss methods, and callingfor judgment more often than for theorems, proofs or algorithms, at least once the initial hurdles have been taken.  Judgement is required, for example, for the choice of models, tuning constants and breakdown levels.  Bootstrap had a faster initial rise, because it was falsely believed to be an algorithm that could be used in the absence of judgment, but now it is in the same slow boat.  I believe the reason is that judgment calls for thinking, and to think is difficult."
+- "The problem with it was and is that robustness is not a method, nor a collection of methods (although it is often misrepresented as such), but a concept stretching acrodss methods, and calling for judgment more often than for theorems, proofs or algorithms, at least once the initial hurdles have been taken.  Judgment is required, for example, for the choice of models, tuning constants and breakdown levels.  Bootstrap had a faster initial rise, because it was falsely believed to be an algorithm that could be used in the absence of judgment, but now it is in the same slow boat.  I believe the reason is that judgment calls for thinking, and to think is difficult."
 
   - Peter J. Huber (1997)
   
