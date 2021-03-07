@@ -161,6 +161,12 @@
   
   - *Regression Modeling Strategies, with Applications to Linear Models, Logistic Regression, and Survival Analysis*. Springer.
   
+- "In my opinion, model users should be encouraged to think of models as tools that can aid in informing their judgment, rather than as substitutes for judgment that can best be employed mechanically."
+
+  - Stephen K. McNees (1986)
+
+  - Forecasting accuracy of alternative techniques:  a comparison of U.S. macroecnomic forecasts.  *Journal of Business and Economic Statistics*: 4:  5-15.
+  
 - "There is no methodology in traditional statistics for assessing the adequacy of a model!  The only thing orthodox frequentist theory can do about models is to reject them, and Bayesian statistics cannot even do that.  Nonrejection does not imply that the model is correct; it does not even tell one whether it adequately represents the data.  On the other hand, a rejected model might be perfectly adequate."
 
   - Peter J. Huber (2006)
@@ -277,6 +283,12 @@
   - Arthur P. Dempster (1983)
   
   - Purposes and limitations of data analysis.  In *Scientific Inference, Data Analysis, and Robustness*, ed. by G. E. P. Box, T. Leonard, and C.-F. Wu.  Academic Press, 117-133.
+
+- "But a word of caution is that statistics users often equate the word "test" with statistical testing....As a statistician, I feel honored that statistics users have this kind of confidence in my profession.  On the other hand, I am also deeply troubled, because in most cases a scientific theory of cause-and-effect has to be tested by the scientists themselves, not by statisticians.  Statisticians have indeed made important contributions to numerous instances of scientific testing; but their role is often blown out of proportion."
+
+  - Chamont Wang (1993)
+
+  - *Sense and Nonsense of Statistical Inference:  Controversy, Misuse, and Subtlety*.  Marcel Dekker.
 
 ## Statistical consulting
 
