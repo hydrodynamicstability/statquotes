@@ -60,6 +60,12 @@
   
   - Bailar's laws of data analysis.  *Clinical Pharmacology and Therapeutics*, 20:  113-119.
 
+- "In data analysis, a crucial and often bungled decision is the choice of data to be investigated.  It may pay to ignore a massive majority, if it is distorted by systematic errors."
+
+  - Peter J. Huber (2011)
+
+  - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
+
 ## Experimental design
 
 - "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs.  But all too frequently statisticians impose all kinds of nonsensical conditions on the poor biologist or psychologist--conditions which, although they produce unequivocal statistical results, actually hinder him in his research."
@@ -131,6 +137,12 @@
 
   - George E.P. Box
   
+- "Very often, a statistician or scientist chooses a method because he or she is familiar with it, rather than because it is appropriate."
+
+  - Peter J. Huber (2011)
+
+  - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
+  
 - "I wish we could learn to look at the data more directly, without the fictional models and priors. On the same wish-list: We should stop pretending to fix bad designs and inadequate measurements by modeling." 
 
   - David A. Freedman (1995)
@@ -155,6 +167,12 @@
   
   - Discussion, Tukey's paper after 40 years.  *Technometrics*, 48:  332-334.
   
+- "Goodness-of-fit tests will reject even perfectly adequate models, once the sample size is large enough, simply because not every nook and cranny can and should be modeled."
+
+  - Peter J. Huber (2011)
+
+  - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
+  
 ## Categorical data
 
 - "Cross-tabulation before regression." 
@@ -171,12 +189,17 @@
   
 ## Robust and resistant statistics
 
-- "The problem with it was and is that robustness is not a method, nor a collection of methods (although it is often misrepresented as such), but a concept stretching acrodss methods, and calling for judgment more often than for theorems, proofs or algorithms, at least once the initial hurdles have been taken.  Judgment is required, for example, for the choice of models, tuning constants and breakdown levels.  Bootstrap had a faster initial rise, because it was falsely believed to be an algorithm that could be used in the absence of judgment, but now it is in the same slow boat.  I believe the reason is that judgment calls for thinking, and to think is difficult."
+- "The problem with it was and is that robustness is not a method, nor a collection of methods (although it is often misrepresented as such), but a concept stretching across methods, and calling for judgment more often than for theorems, proofs or algorithms, at least once the initial hurdles have been taken.  Judgment is required, for example, for the choice of models, tuning constants and breakdown levels.  Bootstrap had a faster initial rise, because it was falsely believed to be an algorithm that could be used in the absence of judgment, but now it is in the same slow boat.  I believe the reason is that judgment calls for thinking, and to think is difficult."
 
   - Peter J. Huber (1997)
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
   
+- "Robustness is more than a bag of procedures.  It should be regarded as a state of mind:  a statistician should keep in mind that *all* aspects of a data analytic setup (experimental design, data collection, models, procedures) must be handled in such a way that minor deviations from the assumptions cannot have large effects on the results (a robustness problem), and that major deivations can be discovered (a diagnostic problem(.  Only a small part of this can be captured by theorems and proofs, or by canned computer procedures."
+
+  - Peter J. Huber (2011)
+
+  - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
   
 ## Statistical inferences
 
@@ -186,6 +209,11 @@
   
   - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
+- "On the basis of the same data, you cannot both discover a feature and perform a meaningful statistical test for its presence....it is no longer possible to calculate reliable P-values *after* one has looked at the data -- unless they are based on fresh data, they may be worse than useless, namely misleading."
+
+  - Peter J. Huber (2011)
+
+  - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
   
 ## Null hypothesis significance testing (NHST)
 
@@ -231,6 +259,12 @@
   - David A. Freedman (1991)
   
   - Statistical models and shoe leather.  *Sociological Methodology*, 21:  291-313.
+
+- "Comparison between results from two or more unrelated sources of information may provide a more convincing confirmation of the correctness of an interpretation than any statistical test."
+
+  - Peter J. Huber (2011)
+
+  - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
 
 - "The responsibility lies more heavily on statisticians than on any other professional to make sure that their descriptions of the data not be subject to misinterpretation.  This is what has given our discipline its bad name.  We are all damned liars, because what we do is often presented obscurely and so does not convince.  Of course some of what we do is obscure even to ourselves."
 
