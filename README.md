@@ -195,7 +195,7 @@
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
   
-- "Robustness is more than a bag of procedures.  It should be regarded as a state of mind:  a statistician should keep in mind that *all* aspects of a data analytic setup (experimental design, data collection, models, procedures) must be handled in such a way that minor deviations from the assumptions cannot have large effects on the results (a robustness problem), and that major deivations can be discovered (a diagnostic problem(.  Only a small part of this can be captured by theorems and proofs, or by canned computer procedures."
+- "Robustness is more than a bag of procedures.  It should be regarded as a state of mind:  a statistician should keep in mind that *all* aspects of a data analytic setup (experimental design, data collection, models, procedures) must be handled in such a way that minor deviations from the assumptions cannot have large effects on the results (a robustness problem), and that major deivations can be discovered (a diagnostic problem).  Only a small part of this can be captured by theorems and proofs, or by canned computer procedures."
 
   - Peter J. Huber (2011)
 
@@ -365,7 +365,7 @@
   
   - A conversation with John Tukey.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
   
-- "A future professional statistician needs a solid foundation in mathematics and in a science.  One reason for the first requirement is the actual need for mathematical proficiency, but only in part; it is just as important to inure him or her against being intimidated by mathematical fireworks.  The second provides the much needed understanding of the spirit prevailing in the sciences.  A very old-fashioned traditinal university education in physics, augmented by probability and statistics courses, may come closest to this ideal."
+- "A future professional statistician needs a solid foundation in mathematics and in a science.  One reason for the first requirement is the actual need for mathematical proficiency, but only in part; it is just as important to inure him or her against being intimidated by mathematical fireworks.  The second provides the much needed understanding of the spirit prevailing in the sciences.  A very old-fashioned traditional university education in physics, augmented by probability and statistics courses, may come closest to this ideal."
 
   - Peter J. Huber (1997)
   
