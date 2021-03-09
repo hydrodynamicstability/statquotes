@@ -253,6 +253,19 @@
   
   - Five ways to fix statistics.  *Nature*, 551:  557-559.
   
+## Confidence intervals
+
+- "On the whole, however, tests of significance are less frequently useful in experimental work than confidence limits.  In many experiments it seems obvious that the different treatments must have produced some difference, however small, in effect.  Thus the hypothesis that there is *no* difference is unrealistic; the real problem is to obtain estimates of the sizes of the differences."
+
+  - William G. Cochran and Gertrude M. Cox (1957)
+
+  - *Experimental Designs*, second edition.  Wiley.
+
+- "I am referring to Dr. Neyman's confidence limits. I am not at all sure that the 'confidence' is not a 'confidence trick.'"
+
+  - Sir Arthur Lyon Bowley (1934)
+
+  - Discussion of Jerzy Neyman's paper, On the two different aspects of the representative method:  the method of stratified sampling and the method of purposive selection, *Journal of the Royal Statistical Society*, 97:  558-625.
 
 ## Statistical conclusions
 
@@ -389,7 +402,7 @@
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
 
-- "Biostatistician:  One who has neither the intellect for mathematics nor the commitment to medicine but likes to dabble in both."
+- "Biostatistician:  One who has neither the intellect for mathematics nor the commitment for medicine but likes to dabble in both."
 
   - Stephen Senn (2007)
 
