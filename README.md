@@ -406,7 +406,7 @@
 
   - Peter J. Huber (1997)
   
-  - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
+  - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 175-192.
 
 - "Biostatistician:  One who has neither the intellect for mathematics nor the commitment for medicine but likes to dabble in both."
 
