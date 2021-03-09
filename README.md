@@ -116,6 +116,12 @@
   
   - *Science*, 353: 116–119.
 
+- "Exploratory data analysis:  The practice of studying data without preconceived notions as a means of obtaining ill-conceived ones.  The art of seeing a Rembrandt in a Jackson Pollock."
+
+  - Stephen Senn (2007)
+
+  - *Statistical Issues in Drug Development*, second edition.  Wiley.
+
 ## Correlation
 
 - "...most correlation coefficients should never be calculated." 
@@ -382,6 +388,13 @@
   - Peter J. Huber (1997)
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 26-45.
+
+- "Biostatistician:  One who has neither the intellect for mathematics nor the commitment to medicine but likes to dabble in both."
+
+  - Stephen Senn (2007)
+
+  - *Statistical Issues in Drug Development*, second edition.  Wiley.
+
 
 - "Thou shalt not sit with statisticians nor commit a social science."
 
