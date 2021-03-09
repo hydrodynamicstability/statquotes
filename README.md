@@ -261,6 +261,12 @@
 
   - *Experimental Designs*, second edition.  Wiley.
 
+- "Thus, a frequent mistake is to calculate a confidence interval to contain the population mean when the problem requires a tolerance interval or a prediction interval.  At other times, a tolerance interval is used when a prediction interval is needed.  Such confusion is understandable, because most texts on statistics generally discuss confidence intervals, occasionally make reference to tolerance intervals, but generally consider prediction intervals only in the context of regression analysis."
+
+  - Gerald J. Hahn and William Q. Meeker (1991)
+
+  - *Statistical Intervals:  A Guide for Practitioners*.  Wiley.
+
 - "I am referring to Dr. Neyman's confidence limits. I am not at all sure that the 'confidence' is not a 'confidence trick.'"
 
   - Sir Arthur Lyon Bowley (1934)
