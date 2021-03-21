@@ -217,9 +217,9 @@
 
 - "At the risk of the obvious, inferences to imaginary populations are also imaginary."
 
-  - David A. Freedman & Richard A. Berk (2005)
+  - Richard A. Berk & David A. Freedman (2003)
   
-  - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+  - Statistical assumptions as empirical commitments.  In *Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
 - "On the basis of the same data, you cannot both discover a feature and perform a meaningful statistical test for its presence....it is no longer possible to calculate reliable P-values *after* one has looked at the data -- unless they are based on fresh data, they may be worse than useless, namely misleading."
 
@@ -418,7 +418,7 @@
 
   - William M. Mason (1991)
 
-  - Freedman is right as far as he goes, but there is more, and its worse.  Statisticians could help.  *Sociological Methodology*, 21:  337-351.  
+  - Freedman is right as far as he goes, but there is more, and it's worse.  Statisticians could help.  *Sociological Methodology*, 21:  337-351.  
 
 - "Biostatistician:  One who has neither the intellect for mathematics nor the commitment for medicine but likes to dabble in both."
 
