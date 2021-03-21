@@ -76,9 +76,9 @@
 
 - "No amount of statistical maneuvering will get very far without some understanding of how the data were produced."
 
-  - David A. Freedman & Richard A. Berk (2005)
+  - Richard A. Berk  & David A. Freedman (2003)
   
-  - Statistical assumptions as empirical commitments.  In *Law, Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+  - Statistical assumptions as empirical commitments.  In *Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
 - "Statistical ideas for producing data to answer specific questions are the most influential contributions of statistics to human knowledge.  Badly designed data production is the most common serious flaw in statistical studies.  Well designed data production allows us to apply standard methods of analysis and reach clear conclusions.  Professional statisticians are paid for their expertise in designing studies; if the study is well designed (and no unanticipated disaster occurred), you don't need a professional to do the analysis.  In other words, the design of data production is *really* important.  If you just say 'Suppose X_1 to X_n are iid observations,' you aren't teaching statistics."
 
@@ -343,6 +343,12 @@
 
 ## Probability
 
+- "For thirty years, I have found Bayesian statistics to be a rich source of mathematical questions.  However, I no longer see it as the preferred way to do applied statistics, because I find that uncertainty can rarely be quantified as probability."
+
+  - David A. Freedman (1991)
+
+  - A rejoinder to Berk, Blalock, and Mason.  *Sociological Methodology*, 21:  353-358.
+
 - "Probability does not exist."
 
   - Bruno de Finetti (1970)
@@ -407,6 +413,12 @@
   - Peter J. Huber (1997)
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 175-192.
+
+- "Statistics has definitely evolved into a field in which people can do their work without actually seeing and doing applications."
+
+  - William M. Mason (1991)
+
+  - Freedman is right as far as he goes, but there is more, and its worse.  Statisticians could help.  *Sociological Methodology*, 21:  337-351.  
 
 - "Biostatistician:  One who has neither the intellect for mathematics nor the commitment for medicine but likes to dabble in both."
 
