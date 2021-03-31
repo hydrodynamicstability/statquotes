@@ -148,6 +148,12 @@
   - Peter J. Huber (2011)
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
+
+- "Live with the data before you plunge into modeling."
+
+  - Leo Breiman (2001)
+  
+  - Statistical modeling:  the two cultures.  *Statistical Science*, 16:  199-231.
   
 - "I wish we could learn to look at the data more directly, without the fictional models and priors. On the same wish-list: We should stop pretending to fix bad designs and inadequate measurements by modeling." 
 
@@ -166,7 +172,13 @@
   - Frank E. Harrell, Jr. (2001)
   
   - *Regression Modeling Strategies, with Applications to Linear Models, Logistic Regression, and Survival Analysis*. Springer.
+
+- "Data will often point with almost equal emphasis at several possible models and it is important that the statistician recognize and accept this."
+
+  - Peter McCullagh and John A. Nelder (1989)
   
+  - *Generalized Linear Models*, second edition.  Chapman & Hall.
+
 - "In my opinion, model users should be encouraged to think of models as tools that can aid in informing their judgment, rather than as substitutes for judgment that can best be employed mechanically."
 
   - Stephen K. McNees (1986)
