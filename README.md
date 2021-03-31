@@ -347,6 +347,12 @@
   
   - Presidential Address.  *Sankhya: The Indian Journal of Statistics*, 4 (1):  14-17.
   
+- "The statistician who supposes that his main contribution to the planning of an experiment will involve statistical theory, finds repeatedly that he makes his most valuable contribution simply by persuading the investigator to epxlain why he wishes to do the experiment, by persuading him to justify the experimental treatments, and to explain why it is that the experiment, when completed, will assist him in his research."
+
+  - Gertrude M. Cox (1951)
+
+  - Lecture at the U.S. Department of Agriculture, Washington, D.C., 11 January 1951.  Quoted by W. Edwards Deming (1960), *Sample Design in Business Research*.  Wiley.
+
 - "It's easier to get involved than it is to extricate yourself."
 
   - John C. Bailar, III (1976)
@@ -354,6 +360,12 @@
   - Bailar's laws of data analysis.  *Clinical Pharmacology and Therapeutics*, 20:  113-119.
 
 ## Probability
+
+- "It is curious how often the most acute and powerful intellects have gone astray in the calculation of probabilities."
+
+  - William Stanley Jevons (1877)
+
+  - *The Principles of Science:  A Treatise on Logic and Scientific Method*, second edition.  Macmillan.
 
 - "For thirty years, I have found Bayesian statistics to be a rich source of mathematical questions.  However, I no longer see it as the preferred way to do applied statistics, because I find that uncertainty can rarely be quantified as probability."
 
@@ -373,6 +385,11 @@
   
   - *The Art of Probability for Scientists and Engineers*.  Perseus.
 
+- "The statistician's report to management shoudl not talk about probabilities.  It will merely give outside margins of error for the results of chief importance.  Administrators are not interested in probabilities; they need to know what figure they can use and within what range they may depend on it."
+
+  - W. Edwards Deming (1960)
+
+  - *Sample Design in Business Research*.  Wiley.
 
 ## Mathematics
 
