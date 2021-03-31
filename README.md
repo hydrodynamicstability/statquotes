@@ -385,7 +385,7 @@
   
   - *The Art of Probability for Scientists and Engineers*.  Perseus.
 
-- "The statistician's report to management shoudl not talk about probabilities.  It will merely give outside margins of error for the results of chief importance.  Administrators are not interested in probabilities; they need to know what figure they can use and within what range they may depend on it."
+- "The statistician's report to management should not talk about probabilities.  It will merely give outside margins of error for the results of chief importance.  Administrators are not interested in probabilities; they need to know what figure they can use and within what range they may depend on it."
 
   - W. Edwards Deming (1960)
 
