@@ -86,6 +86,12 @@
   
   - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
 
+- "To find out what happens to a system when you interere with it you have to interfere with it (not just passively observe it)."
+
+  - G. E. P. Box (1966)
+  
+  - Use and abuse of regression.  *Technometrics*, 8:  625-629.
+
 - "Block what you can and randomize what you cannot."
 
   - George E.P. Box, William G. Hunter, and J. Stuart Hunter (1978)
@@ -166,6 +172,12 @@
   - Leo Breiman (2001)
   
   - Statistical modeling:  the two cultures.  *Statistical Science*, 16:  199-231.
+
+- "One reason that statisicl analyses are often not accepted or understood is that they are based on unsupported models."
+
+  - Colin L. Mallows (1998)
+
+  - The zeroth problem.  *The American Statistician*, 52:  1-9.
   
 - "Using the data to guide the data analysis is almost as dangerous as not doing so." 
  
@@ -315,6 +327,12 @@
   
   - Data description.  In *Scientific Inference, Data Analysis, and Robustness*, ed. by G. E. P. Box, T. Leonard, and C.-F. Wu.  Academic Press, 135-151.
 
+- "So statistical methods look like magic, with results pulled out of thin air."
+
+  - Colin L. Mallows (1998)
+  
+  - The zeroth problem.  *The American Statistician*, 52:  1-9.
+
 - "How does one recognize a good statistical analysis?  Most evaluation of specific data analysis is anecdotal.  An example is briefly described, and the illustrated use of the technique is pronounced successful.  Critics find it all too easy to shift the burden of proof by pronouncing that most statistical analysis is useless or misleading.  The situation is paradoxical because data collection and analysis is a basic tool for evaluation, so that statisticians should be well equipped to construct systems for measuring and analyzing their own performance."
 
   - Arthur P. Dempster (1983)
@@ -411,6 +429,12 @@
   
   - Tukey's paper after 40 years.  *Technometrics*, 48:  319-325.
 
+- "I am not saying that the mathematical aspects of statisics are unimportant, but that the reason that statistics is not a mainstream subject is because it has got lost in a mathematical tributary.  It would be helpful if it was categorized and recognized a uniquely important science rather than as one of the (lesser) branches of applied mathematics."
+
+  - G. E. P. Box (2006)
+
+  - *Improving Almost Anything:  Ideas and Essays*, revised edition.  Wiley.  
+
 ## Computing
 
 - "The purpose of computing is insight, not numbers."
@@ -443,11 +467,23 @@
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 175-192.
 
+- "Are physical scientists and engineers too foolish to recognize the value of statistics?  I don't think so.  Rather I think they understand that the basic philosophy that motivates much of the statistics taught in universities is not appropriate for what they do."
+
+  - G. E. P. Box (2006)
+
+  - *Improving Almost Anything:  Ideas and Essays*, revised edition.  Wiley.
+
 - "Statistics has definitely evolved into a field in which people can do their work without actually seeing and doing applications."
 
   - William M. Mason (1991)
 
   - Freedman is right as far as he goes, but there is more, and it's worse.  Statisticians could help.  *Sociological Methodology*, 21:  337-351.  
+
+- "Although statisics departments in universities are now commonplaace there continues to be a severe shortage of statisticians competent to deal with real problems.  But such are needed."
+
+  - G. E. P. Box (1976)
+
+  - Science and statistics.  *Journal of the American Statistical Association*, 71:  791-799.
 
 - "Biostatistician:  One who has neither the intellect for mathematics nor the commitment for medicine but likes to dabble in both."
 
