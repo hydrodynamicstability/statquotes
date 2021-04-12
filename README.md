@@ -173,7 +173,7 @@
   
   - Statistical modeling:  the two cultures.  *Statistical Science*, 16:  199-231.
 
-- "One reason that statisicl analyses are often not accepted or understood is that they are based on unsupported models."
+- "One reason that statistical analyses are often not accepted or understood is that they are based on unsupported models."
 
   - Colin L. Mallows (1998)
 
@@ -429,7 +429,7 @@
   
   - Tukey's paper after 40 years.  *Technometrics*, 48:  319-325.
 
-- "I am not saying that the mathematical aspects of statisics are unimportant, but that the reason that statistics is not a mainstream subject is because it has got lost in a mathematical tributary.  It would be helpful if it was categorized and recognized a uniquely important science rather than as one of the (lesser) branches of applied mathematics."
+- "I am not saying that the mathematical aspects of statistics are unimportant, but that the reason that statistics is not a mainstream subject is because it has got lost in a mathematical tributary.  It would be helpful if it was categorized and recognized a uniquely important science rather than as one of the (lesser) branches of applied mathematics."
 
   - G. E. P. Box (2006)
 
