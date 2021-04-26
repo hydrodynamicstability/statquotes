@@ -375,7 +375,7 @@
 
   - George E. P. Box (1998)
 
-  - Statistics as a catalyst to learning by scientific method part II - a discussion, *Journal of Quality Technology*, 31:  16-29.
+  - Statistics as a catalyst to learning by scientific method,  Response to the discussion, *Journal of Quality Technology*, 31:  67-72.
 
 - "It's easier to get involved than it is to extricate yourself."
 
