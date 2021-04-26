@@ -371,7 +371,7 @@
 
   - Lecture at the U.S. Department of Agriculture, Washington, D.C., 11 January 1951.  Quoted by W. Edwards Deming (1960), *Sample Design in Business Research*.  Wiley.
 
-- "If you don't know whether you are a good statistician or not, here is a simple test:  If your name is Joe Blow and there is a very tough investigation coming up, and the engineers and scientists say, 'We've got to have Jo on the team,' then you will have arrived."
+- "If you don't know whether you are a good statistician or not, here is a simple test:  If your name is Joe Blow and there is a very tough investigation coming up, and the engineers and scientists say, 'We've got to have Joe on the team,' then you will have arrived."
 
   - George E. P. Box (1998)
 
