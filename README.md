@@ -455,7 +455,7 @@
   
   - Self-correction by design.  *Harvard Data Science Review*, 2.4.
 
-- "Computers have released us from having to teach the nitty-gritty of our analytic techniques.  But this has mainly served to highlight the emperor's new clothes, namely the general lack of practical relevance of what we has been teaching."
+- "Computers have released us from having to teach the nitty-gritty of our analytic techniques.  But this has mainly served to highlight the emperor's new clothes, namely the general lack of practical relevance of what we had been teaching."
 
   - Andrew S. C. Ehrenberg (1990)
   
