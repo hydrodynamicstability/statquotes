@@ -386,6 +386,12 @@
 
   - Lecture at the U.S. Department of Agriculture, Washington, D.C., 11 January 1951.  Quoted by W. Edwards Deming (1960), *Sample Design in Business Research*.  Wiley.
 
+- "By an *end* we refer to real purposes of the user of the statistical technique.  These purposes are often unformulated, and their partial formulation often requires the statistician to 'psychoanalyze' his client (in the writer's view this is one of the most important functions of the statistical consultant!)."
+
+  - John W. Tukey (1954)
+
+  - Unsolved problems of experimental statistics.  *Journal of the American Statistical Association*, 49:  706-731.
+
 - "If you don't know whether you are a good statistician or not, here is a simple test:  If your name is Joe Blow and there is a very tough investigation coming up, and the engineers and scientists say, 'We've got to have Joe on the team,' then you will have arrived."
 
   - George E. P. Box (1998)
