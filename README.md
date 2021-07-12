@@ -348,6 +348,11 @@
   
   - The zeroth problem.  *The American Statistician*, 52:  1-9.
 
+- "What should experimental statistics as a whole do about systematic errors?  Should we change from '95 percent confidence' to '5 percent diffidence' and impress on our clients that more diffidence has to be added because of systematic errors?  Have we been overselling our clients on the confidence with which they should accept the results of our analyses?  Is this why physics is the most-resistant of all the sciences to the penetration of statistics?"
+
+  - John W. Tukey (1954)
+
+  - Unsolved problems of experimental statistics.  *Journal of the American Statistical Association*, 49:  706-731.
 - "How does one recognize a good statistical analysis?  Most evaluation of specific data analysis is anecdotal.  An example is briefly described, and the illustrated use of the technique is pronounced successful.  Critics find it all too easy to shift the burden of proof by pronouncing that most statistical analysis is useless or misleading.  The situation is paradoxical because data collection and analysis is a basic tool for evaluation, so that statisticians should be well equipped to construct systems for measuring and analyzing their own performance."
 
   - Arthur P. Dempster (1983)
