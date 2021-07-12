@@ -78,13 +78,19 @@
 
   - Richard A. Berk  & David A. Freedman (2003)
   
-  - Statistical assumptions as empirical commitments.  In *Punishment, and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
+  - Statistical assumptions as empirical commitments.  In *Punishment and Social Control:  Essays in Honor of Sheldon Messenger*, 2d ed., ed. by T. G. Blomberg and S. Cohn.  Aldine de Gruyter, pp. 235-254.
   
 - "Statistical ideas for producing data to answer specific questions are the most influential contributions of statistics to human knowledge.  Badly designed data production is the most common serious flaw in statistical studies.  Well designed data production allows us to apply standard methods of analysis and reach clear conclusions.  Professional statisticians are paid for their expertise in designing studies; if the study is well designed (and no unanticipated disaster occurred), you don't need a professional to do the analysis.  In other words, the design of data production is *really* important.  If you just say 'Suppose X_1 to X_n are iid observations,' you aren't teaching statistics."
 
   - George W. Cobb and David S. Moore (1997)
   
   - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
+
+- "Always involved  in good experimental design are the following inherent characteristics:  (1) measurement is always comparative; (2) measurement is what is done, not what should be done.  Good experimental designs use these facts to help accuracy, rather than allowing them to hinder it."
+
+  - John W. Tukey (1953)
+  
+  - The growth of experimental design in a research laboratory.  In *Research Operations in Industry: Papers Delivered at the Third Annual Conference on Industrial Research, June 1952. With Selected Papers from the First and Second Conferences*, ed. by D. B. Hertz.  Columbia University Press, pp. 303-313.
 
 - "To find out what happens to a system when you interere with it you have to interfere with it (not just passively observe it)."
 
@@ -296,6 +302,15 @@
   - Sir Arthur Lyon Bowley (1934)
 
   - Discussion of Jerzy Neyman's paper, On the two different aspects of the representative method:  the method of stratified sampling and the method of purposive selection, *Journal of the Royal Statistical Society*, 97:  558-625.
+
+## Laboratory quality control
+
+- "Most directors of research hold to the opinion, and rightly so, that they are engaged in research, not production.  Deviating from this would be bad for all concerned; yet it is helpful to realize what is the greatest production activity of any research group it is the *production of measurement*.  There are few research projects in which actual measurement, together with the preapration of instruments and samples, does not represent a substantial part of the effort.  Most of this measurement is of a production character --- yet too often it is not operated as such.  Sometimes it is operated too much so, but this is another matter."
+
+  - John W. Tukey (1953)
+  
+  - The growth of experimental design in a research laboratory.  In *Research Operations in Industry: Papers Delivered at the Third Annual Conference on Industrial Research, June 1952. With Selected Papers from the First and Second Conferences*, ed. by D. B. Hertz.  Columbia University Press, pp. 303-313.
+
 
 ## Statistical conclusions
 
