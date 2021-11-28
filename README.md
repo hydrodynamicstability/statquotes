@@ -185,6 +185,13 @@
 
   - The zeroth problem.  *The American Statistician*, 52:  1-9.
   
+- "Unfortunately, much of the current work I see is neither interesting mathematics nor useful in practice. Worse, in its complexity, modern model building
+seems to drive away from the truth into a fantasy land beyond objective reality....I feel that the believability of statistical analyses is at an all time low. If we do not stand up and say something the field will vanish."
+
+  - Persi Diaconis (1998)
+ 
+  - A place for philosophy?  The rise of modeling in statistical science.  *Quarterly of Applied Mathematics*, 4:  797-805.
+
 - "Using the data to guide the data analysis is almost as dangerous as not doing so." 
  
   - Frank E. Harrell, Jr. (2001)
@@ -353,6 +360,7 @@
   - John W. Tukey (1954)
 
   - Unsolved problems of experimental statistics.  *Journal of the American Statistical Association*, 49:  706-731.
+
 - "How does one recognize a good statistical analysis?  Most evaluation of specific data analysis is anecdotal.  An example is briefly described, and the illustrated use of the technique is pronounced successful.  Critics find it all too easy to shift the burden of proof by pronouncing that most statistical analysis is useless or misleading.  The situation is paradoxical because data collection and analysis is a basic tool for evaluation, so that statisticians should be well equipped to construct systems for measuring and analyzing their own performance."
 
   - Arthur P. Dempster (1983)
@@ -364,6 +372,12 @@
   - Chamont Wang (1993)
 
   - *Sense and Nonsense of Statistical Inference:  Controversy, Misuse, and Subtlety*.  Marcel Dekker.
+
+- "Quick, easy decisions and cut-and-dry conclusions based on statistical results are described, implicitly de-emphasizing the need to wrestle critically with uncertainty, and contributing to the widespread phenomenon of over-selling what statistical inference and methods provide. The over-selling and over-stating happens in research proposals, publications, media reports of research findings, and in books meant to be attractive to nonstatisticians.  There are so many positive implications of the statistical revolution, but there are also negative consequences, and that should be part of the message statisticians are sending to the world; people have bought into the value, but without an in-depth understanding of the implications. Humans are hungry to rid a problem of uncertainty and come away with a cut-and-dry answer, and statisticians should be wary of reinforcing the misunderstanding that the practice of statistics is just calculations and answers—just simply 'number crunching.' It is difficult to comprehend the limitations of something we do not fully understand and there is a tendency to simply trust that which seems too complicated or is beyond our formal education. Therefore, there is a trust placed on those individuals who do understand the foundations and details (statisticians) to convey limitations clearly and often; though this is getting more difficult as statisticians continue to lose control over methods...."
+
+  - Megan D. Higgs (2019)
+  
+  - Review of *Errors, Blunders, and Lies:  How to Tell the Difference*, by David S. Salsburg (Chapman & Hall/CRC Press, 2017).  *The American Statistician*, 73:  95-96.
 
 ## Statistical consulting
 
