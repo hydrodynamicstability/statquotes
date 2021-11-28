@@ -263,7 +263,13 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Peter J. Huber (2011)
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
-  
+
+- "The econometric art as it is practiced at the computer terminal involves fitting many, perhaps thousands, of statistical models. One or several that the researcher finds pleasing are selected for reporting purposes. This searching for a model is often well intentioned, but there can be no doubt that such a specification search invalidates the traditional theories of inference. The concepts of unbiasedness, consistency, efficiency, maximum-likelihood estimation, in fact, all the concepts of traditional theory, utterly lose their meaning by the time an applied researcher pulls from the bramble of computer output the one thorn of a model he likes best, the one he chooses to portray as a rose.  The consuming public is hardly fooled by this chicanery...Hardly anyone takes data analyses seriously. Or perhaps more accurately, hardly anyone takes anyone else's data analyses seriously. Like elaborately plumed birds who have long since lost the ability to procreate but not the desire, we preen and strut and display our *t*-values....Because both the sampling distribution and the prior distribution are actually *opinions* and not *facts*, a statistical inference is and must forever remain an *opinion*."
+
+  - Edward E. Leamer (1983)
+
+  - Let's take the con out of econometrics.  *The American Economic Review*, 73:  31-43.
+
 ## Null hypothesis significance testing (NHST)
 
 - "Null hypotheses of no difference are usually known to be false before the data are collected....when they are, their rejection or acceptance simply reflects the size of the sample and the power of the test, and is not a contribution to science."
@@ -324,6 +330,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 - "Absence of evidence is not evidence of absence."
 
   - Unknown
+
+- "I remarked earlier on the tendency of economists to get the result their theory tells them to expect. In a talk I gave at the University of Virginia in the early 1960s, at which Warren Nutter was, I think, present, I said that if you torture the data enough, nature will always confess, a saying which, in a somewhat altered form, has taken its place in the statistical literature."
+
+  - Ronald Coase (1981)
+
+  - *How Should Economists Choose?* (Third G. Warren Nutter Lecture in Political Economy, American Enterprise Institute, Nov. 18, 1981).  American Enterprise Institute for Public Policy Research, 1982.
 
 - "Confirmation comes from repetition.  Any attempt to avoid this statement leads at least to failure and more probably to destruction."
 
