@@ -492,6 +492,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
   - Data analysis, computation, and mathematics.  *Quarterly of Applied Mathematics*, 30:  51-65.
 
+- "Bayes' theorem is not the only way that probability shifts in response to new evidence."
+
+  - Persi Diaconis (1985)
+
+  - Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  Wiley, pp. 1-36.
+
 - "Probability does not exist."
 
   - Bruno de Finetti (1970)
