@@ -36,7 +36,7 @@
 
 ## Data
 
-- "[F]or without data, everyone is an expert.  Issues that generate great disagreement and controversy are usually those where little factual data exist."
+- "\[F\]or without data, everyone is an expert.  Issues that generate great disagreement and controversy are usually those where little factual data exist."
 
   - Ronald D. Snee (1986)
   
@@ -53,6 +53,12 @@
   - George W. Cobb and David S. Moore (1997)
   
   - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
+
+- "\[T\]he discovery of the irrelevance of past knowledge to the data before us can be one of the great triumphs of science."
+
+  - John W. Tukey (1972)
+
+  - Data analysis, computation, and mathematics.  *Quarterly of Applied Mathematics*, 30:  51-65.
   
 - "My experience with data analysis indicates to me that problems with the data themselves are usually more numerous and more serious than problems with methodology."
  
@@ -127,6 +133,12 @@
   - Marcia McNutt (2016), now President of the National Academy of Sciences.
   
   - *Science*, 353: 116–119.
+
+- "At one extreme, we can view the techniques of EDA \[Exploratory Data Analysis\] as a ritual designed to reveal patterns in a data set.  Thus, we may believe that naturally occurring data sets contain structure, that EDA is a useful vehicle for revealing the structure, and that revealed structure can sometimes be interpreted in the language of the subject matter that produced the data.  If we make no attempt to check whether the structure could have arisen by chance, and tend to accept the findings as gospel, then the ritual comes close to magical thinking.  None of this argues that exploration is useless or wrong.  Consulting statisticians canot be universal subject matter experts, and data often present striking patterns.  Such explorations have been, and continue to be an important part of science."
+
+  - Persi Diaconis (1985)
+
+  - Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  Wiley, pp. 1-36.
 
 - "Exploratory data analysis:  The practice of studying data without preconceived notions as a means of obtaining ill-conceived ones.  The art of seeing a Rembrandt in a Jackson Pollock."
 
@@ -264,6 +276,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
 
+- "Classical mathematical statistics....seeks to interpret patterns as chance fluctuations.  In its most rigid formulation, we decide upon models and hypotheses *before* seeing the data.  Then we compute estimates and carry out tests of our assumptions.  Classical statistics offers an antidote for some of the problems of magical thinking.  However, as a description of what a real scientist does when confronting a real, rich data base, it seems as far off as a primitive ritual....none of the classical theories of statistics comes close to capturing what a real scientist does when exploring new data in a real scientific problem.  All formal theories---Neyman-Pearson, decision-theoretic, Bayesian, Fisherian, and others---work with prespecified probability models."
+
+  - Persi Diaconis (1985)
+
+  - Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  Wiley, pp. 1-36.
+
 - "The econometric art as it is practiced at the computer terminal involves fitting many, perhaps thousands, of statistical models. One or several that the researcher finds pleasing are selected for reporting purposes. This searching for a model is often well intentioned, but there can be no doubt that such a specification search invalidates the traditional theories of inference. The concepts of unbiasedness, consistency, efficiency, maximum-likelihood estimation, in fact, all the concepts of traditional theory, utterly lose their meaning by the time an applied researcher pulls from the bramble of computer output the one thorn of a model he likes best, the one he chooses to portray as a rose.  The consuming public is hardly fooled by this chicanery...Hardly anyone takes data analyses seriously. Or perhaps more accurately, hardly anyone takes anyone else's data analyses seriously. Like elaborately plumed birds who have long since lost the ability to procreate but not the desire, we preen and strut and display our *t*-values....Because both the sampling distribution and the prior distribution are actually *opinions* and not *facts*, a statistical inference is and must forever remain an *opinion*."
 
   - Edward E. Leamer (1983)
@@ -355,6 +373,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
 
+- "Replication on fresh data, preferably by another group of experimenters, is a mainstay of the 'scientific method'.  If done skillfully, replication can eliminate all difficulties with extensive exploration."
+
+  - Persi Diaconis (1985)
+
+  - Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  Wiley, pp. 1-36.
+
 - "The responsibility lies more heavily on statisticians than on any other professional to make sure that their descriptions of the data not be subject to misinterpretation.  This is what has given our discipline its bad name.  We are all damned liars, because what we do is often presented obscurely and so does not convince.  Of course some of what we do is obscure even to ourselves."
 
   - Colin L. Mallows (1983)
@@ -423,6 +447,13 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Unsolved problems of experimental statistics.  *Journal of the American Statistical Association*, 49:  706-731.
 
+- "Once the statistician gives up the hubris of being 'the decider', he or she can seize a vital role, helping to make science and technology function better, because groups and people now understand the quantitative aspects of the strenghts of each other's results more clearly.  The qualitative aspects, frequently even more important, still have to be judged by those who know the field."  
+
+  - Persi Diaconis (1985)
+
+  - Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  Wiley, pp. 1-36.
+
+
 - "If you don't know whether you are a good statistician or not, here is a simple test:  If your name is Joe Blow and there is a very tough investigation coming up, and the engineers and scientists say, 'We've got to have Joe on the team,' then you will have arrived."
 
   - George E. P. Box (1998)
@@ -449,6 +480,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - A rejoinder to Berk, Blalock, and Mason.  *Sociological Methodology*, 21:  353-358.
 
+- "Bayesian techniques assume we know all the alternate  possible states of nature, yet the great gains in knowledge come when we find that our 'knowledge' was quite wrong."
+
+  - John W. Tukey (1972)
+ 
+  - Data analysis, computation, and mathematics.  *Quarterly of Applied Mathematics*, 30:  51-65.
+
 - "Probability does not exist."
 
   - Bruno de Finetti (1970)
@@ -466,6 +503,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - W. Edwards Deming (1960)
 
   - *Sample Design in Business Research*.  Wiley.
+
+- "I...shall continue to use the words 'data analysis', in part to indicate that we can take probability seriously, or leave it alone, as may from time to time be appropriate or necessary."
+
+  - John W. Tukey (1972)
+
+  - Data analysis, computation, and mathematics.  *Quarterly of Applied Mathematics*, 30:  51-65.
 
 ## Mathematics
 
@@ -486,6 +529,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Colin Mallows (2006)
   
   - Tukey's paper after 40 years.  *Technometrics*, 48:  319-325.
+
+- "All to often, statistical theory is miscalled mathematical statistics, about which too many practitioners (even some them Englishmen!) take the dangerous view that work can be good mathematical statistics without being either good mathematics or good statistics."
+
+  - John W. Tukey (1972)
+
+  - Data analysis, computation, and mathematics.  *Quarterly of Applied Mathematics*, 30:  51-65.
 
 - "I am not saying that the mathematical aspects of statistics are unimportant, but that the reason that statistics is not a mainstream subject is because it has got lost in a mathematical tributary.  It would be helpful if it was categorized and recognized a uniquely important science rather than as one of the (lesser) branches of applied mathematics."
 
