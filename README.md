@@ -554,6 +554,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Improving Almost Anything:  Ideas and Essays*, revised edition.  Wiley.  
 
+- "I shall avoid, as much as I can, those questions which, though they have elicited the skill of mathematicians, have not enlarged our knowledge of science."
+
+  - James Clerk Maxwell (1873)
+
+  - *A Treatise on Electricity and Magnetism*.  Clarendon.
+
 ## Computing
 
 - "The purpose of computing is insight, not numbers."
