@@ -294,6 +294,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Let's take the con out of econometrics.  *The American Economic Review*, 73:  31-43.
 
+- "Statistical theory as taught in books is valid and leads to operationally verifiable tests and criteria for an enumerative study.  Not so with an analytic problem, as the conditions of the experiment will not be duplicated in the next trial.  Unfortunately most problems in industry are analytic."
+
+  - W. Edwards Deming (1980)
+
+  - Dedication for the reprint of *Economic Control of Quality of Manufactured Product* by W. A. Shewhart (Milwaukee:  Quality Press).
+
 ## Null hypothesis significance testing (NHST)
 
 - "Null hypotheses of no difference are usually known to be false before the data are collected....when they are, their rejection or acceptance simply reflects the size of the sample and the power of the test, and is not a contribution to science."
@@ -324,7 +330,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - W. Edwards Deming (1986)
 
-  - Foreword to *Statstical Method from the Viewpoint of Quality Control* by Walter A. Shewhart (New York:  Dover).
+  - Foreword to the reprint of *Statstical Method from the Viewpoint of Quality Control* by Walter A. Shewhart (New York:  Dover).
 
 ## Confidence intervals
 
