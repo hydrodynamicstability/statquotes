@@ -320,6 +320,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - Five ways to fix statistics.  *Nature*, 551:  557-559.
   
+- "Dr. Shewhart was well aware that the statistician's levels of significance furnish no measure of belief in a prediction.  Probability has use; tests of significance do not."
+
+  - W. Edwards Deming (1986)
+
+  - Foreword to *Statstical Method from the Viewpoint of Quality Control* by Walter A. Shewhart (New York:  Dover).
+
 ## Confidence intervals
 
 - "On the whole, however, tests of significance are less frequently useful in experimental work than confidence limits.  In many experiments it seems obvious that the different treatments must have produced some difference, however small, in effect.  Thus the hypothesis that there is *no* difference is unrealistic; the real problem is to obtain estimates of the sizes of the differences."
