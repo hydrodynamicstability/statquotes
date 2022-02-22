@@ -28,6 +28,12 @@
   
   - Are Life Scientists Overawed by Statistics? (Too Much Faith in Statistics), *Scientific Research*, 4: 24–29.
 
+- "The most important maxim for data analysis to heed, and one which many statisticians seem to have shunned, is this:  'Far better an approximate answer to the *right* question, which is often vague, than an *exact* answer to the wrong question, which can always be made precise.'  Data analysis must progress by approximate answers, at best, since its knowledge of what the problem really is will at best be approximate.  It would be a mistake not to face up to this fact, for by denying it, we would deny ourselves the use of a great body of approximate knowledge, as well as failing to maintain alertness to the possible importance in each particular instance of particular ways in which our knowledge is incomplete."
+
+  - John W. Tukey (1962)
+
+  - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
+
 - "Data analysis has its major uses.  They are detective work and guidance counseling.  We should all act accordingly."
 
   - John W. Tukey (1969)
@@ -72,6 +78,12 @@
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
 
+- "I once suggested in discussion at a statistical meeting that it might be well if statisticians looked to see how data was actually analyzed by many sorts of people.  A very eminent and senior statistician rose at once to say that this was a novel idea, that it might have merit, but that young statisticians should be careful not to indulge in it too much, since it might distort their ideas.  *The ideas of data analysis ought to survive a look at how data is analyzed*....If data analysis is to be well done, much of it must be a matter of judgment, and 'theory', whether statistical or non-statistical, will have to guide, not command."
+
+  - John W. Tukey (1962)
+
+  - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
+
 ## Experimental design
 
 - "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs.  But all too frequently statisticians impose all kinds of nonsensical conditions on the poor biologist or psychologist--conditions which, although they produce unequivocal statistical results, actually hinder him in his research."
@@ -113,6 +125,22 @@
 - "If your experiment needs statistics, you ought to have done a better experiment."
 
   - Lord Ernest Rutherford, 1908 Nobel Laureate in Chemistry
+
+## Data description
+
+- "Good statistical description is demanding and challenging work: it requires sound conceptualization, and demands insightfully organizing the data, and effectively communicating the results; not one of those tasks is easy. To mistakenly treat description as ‘routine’ is almost surely to botch the job."
+
+  - Lincoln E. Moses (1992)
+
+  - The reasoning of statistical inference. In *Perspectives on Contemporary Statistics*, ed. by D. C. Hoaglin and D. S. Moore.
+Mathematical Association of America, pp. 107–122
+
+- "If one technique of data analysis were to be exalted above all others for its ability to be revealing to the mind in connection with each of many different models, there is little doubt which one would be chosen.  The simple graph has brought more information to the data analyst's mind than any other device.  It specializes in providing indications of expected phenomena.  So long as we have to deal with the relation of a single response to a single stimulus, we can express almost everything qualitative, and much that is quantitative, by a graph.  We may have to plot the differences between observed response and a function of the stimulus against another function of stimulus; we may have to re-express the response, but the meat of the matter can usually be set out in a graph."
+
+  - John W. Tukey (1962)
+
+  - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
+
 
 ## Exploratory and confirmatory
 
@@ -553,6 +581,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Colin Mallows (2006)
   
   - Tukey's paper after 40 years.  *Technometrics*, 48:  319-325.
+
+- "To the extent that pieces of *mathematical statistics* fail to contribute, or are not intended to contribute, even by a long and tortuous chain, to the practice of data analysis, they must be judged as pieces of *pure* mathematics, and criticized according to its purest standards.  Individual parts of mathematical statistics must look for their justification toward either data anlaysis or pure mathematics.  Work which obeys neither master, and there are those who deny the rule of both for their own work, cannot fail to be transient, to be doomed to sink out of sight.  And we must be careful that, in its sinking, it does not take with it work of continuing value."
+
+  - John W. Tukey (1962)
+
+  - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
 
 - "All to often, statistical theory is miscalled mathematical statistics, about which too many practitioners (even some them Englishmen!) take the dangerous view that work can be good mathematical statistics without being either good mathematics or good statistics."
 
