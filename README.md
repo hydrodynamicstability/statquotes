@@ -334,6 +334,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Dedication for the reprint of *Economic Control of Quality of Manufactured Product* by W. A. Shewhart (Milwaukee:  Quality Press).
 
+- "And because what we observe is not the outcome of a stationary process, conventional statistical inference rarely apples and forecasts are often based on shifting sands."
+
+  - John Kay and Mervyn King (2020)
+
+  - *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton).
+
 ## Null hypothesis significance testing (NHST)
 
 - "Null hypotheses of no difference are usually known to be false before the data are collected....when they are, their rejection or acceptance simply reflects the size of the sample and the power of the test, and is not a contribution to science."
@@ -538,7 +544,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - A rejoinder to Berk, Blalock, and Mason.  *Sociological Methodology*, 21:  353-358.
 
-- "Bayesian techniques assume we know all the alternate  possible states of nature, yet the great gains in knowledge come when we find that our 'knowledge' was quite wrong."
+- "Bayesian techniques assume we know all the alternate possible states of nature, yet the great gains in knowledge come when we find that our 'knowledge' was quite wrong."
 
   - John W. Tukey (1972)
  
@@ -573,6 +579,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - John W. Tukey (1972)
 
   - Data analysis, computation, and mathematics.  *Quarterly of Applied Mathematics*, 30:  51-65.
+
+- "The appeal of probability theory is understandable.  But we suspect the reason that such mathematics was, as we shall see, not developed until the seventeenth century is that few real-world problems can properly be represented in this way.  The most compelling extension of probabilistic reasoning is to situations where the possible outcomes are well defined, the underlying processes which give rise to them change little over time, and there is a wealth of historic information."
+
+  - John Kay and Mervyn King (2020)
+
+  - *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton).
 
 ## Mathematics
 
