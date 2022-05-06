@@ -78,11 +78,23 @@
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
 
+- "I know of no thoughtful account of scientific research as a dynamic process--I assume psychology is not yet seeking stasis--according to which data analysis should fail to be flexible, or should fail to be a handmaiden rather than a high priestess."
+
+  - John W. Tukey (1969)
+  
+  - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
+
 - "I once suggested in discussion at a statistical meeting that it might be well if statisticians looked to see how data was actually analyzed by many sorts of people.  A very eminent and senior statistician rose at once to say that this was a novel idea, that it might have merit, but that young statisticians should be careful not to indulge in it too much, since it might distort their ideas.  *The ideas of data analysis ought to survive a look at how data is analyzed*....If data analysis is to be well done, much of it must be a matter of judgment, and 'theory', whether statistical or non-statistical, will have to guide, not command."
 
   - John W. Tukey (1962)
 
   - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
+
+- "Instant data analysis is--and will remain--an illusion."
+
+  - John W. Tukey (1969)
+  
+  - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
 
 ## Experimental design
 
@@ -413,7 +425,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *How Should Economists Choose?* (Third G. Warren Nutter Lecture in Political Economy, American Enterprise Institute, Nov. 18, 1981).  American Enterprise Institute for Public Policy Research, 1982.
 
-- "Confirmation comes from repetition.  Any attempt to avoid this statement leads at least to failure and more probably to destruction."
+- "Confirmation comes from repetition.  Any attempt to avoid this statement leads at least to failure and more probably to destruction....Repetition is the basis for judging variability and significance and confidence....Are we prepared to look for quantitative constancies in psychology?   To reward those that find them?  To answer 'yes' to such questions, rather than to assume such constancies are natural laws not requiring checking, demands an emphasis on breadth of data, on repetition under different parallel circumstances, of which we have seen far too little."
 
   - John W. Tukey (1969)
   
