@@ -704,7 +704,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Freedman is right as far as he goes, but there is more, and it's worse.  Statisticians could help.  *Sociological Methodology*, 21:  337-351.  
 
-- "Although statisics departments in universities are now commonplaace there continues to be a severe shortage of statisticians competent to deal with real problems.  But such are needed."
+- "Although statistics departments in universities are now commonplace there continues to be a severe shortage of statisticians competent to deal with real problems.  But such are needed."
 
   - G. E. P. Box (1976)
 
