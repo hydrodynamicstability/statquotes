@@ -310,6 +310,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
 ## Statistical inferences
 
+- "Notions of significance tests, confidence intervals, posterior intervals and all the formal apparatus of inference are valuable tools to be used as guides, but not in a mechanical way; they indicate the uncertainty that would apply under somewhat idealized, maybe very idealized, conditions and as such are often lower bounds to real uncertainty."
+
+  - Sir David R. Cox (2001)
+
+  - Comment on L. Breiman, Statistical modeling: the two cultures. *Statistical Science*, 16: 199-231.
+
 - "At the risk of the obvious, inferences to imaginary populations are also imaginary."
 
   - Richard A. Berk & David A. Freedman (2003)
@@ -635,6 +641,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - G. E. P. Box (2006)
 
   - *Improving Almost Anything:  Ideas and Essays*, revised edition.  Wiley.  
+
+- "If we waited for all the epsilons and deltas to be supplied before we used techniques that statistical common sense suggests, we would be technical paupers. Mathematical rigor is desirable, but its absence is not a just basis for rejection. To adopt a stricter policy would be to succumb to a different kind of rigor."
+
+  - Forman S. Action (1959)
+  
+  - *Analysis of Straight-Line Data*.  Wiley.
 
 - "I shall avoid, as much as I can, those questions which, though they have elicited the skill of mathematicians, have not enlarged our knowledge of science."
 
