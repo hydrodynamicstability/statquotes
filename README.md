@@ -604,6 +604,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton).
 
+- "Probability calculations are very precise, and for that reason alone they are also of very limited use. Outside of gambling, financial applications, and some physical and engineering problems -- and even these are limited -- mathematical probability is of little direct use for reasoning with uncertainty."
+
+  - Harry Crane (2020)
+
+  - Naive probabilism.  [Researchers.One](http://www.researchers.one/article/2020-03-9)
+
 ## Mathematics
 
 - "The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve."
