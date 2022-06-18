@@ -280,6 +280,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - Model selection and efficiency---is 'which model...?' the right question?  *Journal of the Royal Statistical Society A*, 168:  469-472.
   
+- "Applied statistics may be closer to epistemology than mathematics.  You have to question what you know, why you think you know it, and how confident you are (or should be) in that knowledge.  You must make simplifying assumptions and determine whether they are justified.  Statistical modeling is hard to do *well*.  It's easy to write down a model if you're not overly concerned with the accuracy of your results.  As the old saying goes, fools rush in where angels fear to tread."
+
+  - John D. Cook (2022)
+
+  - Quoted in K. Josic, A conversation with mathematical consultant John D. Cook.  *SIAM News*, 55 (5):  7-8 (June 2022).
+
 ## Categorical data
 
 - "Cross-tabulation before regression." 
