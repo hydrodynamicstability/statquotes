@@ -517,7 +517,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - The future of data analysis. *Annals of Mathematical Statistics*, 33: 1-67.
 
-- "To call in the statistician after the experiment is done may be no more than asking him to perform a post-mortem examination: he may be able to say what the experiment died of."
+- "To consult the statistician after an experiment is finished is often merely to ask him to conduct a *post mortem* examination.  He can perhaps say what the experiment died of."
 
   - Ronald A. Fisher (1938)
   
