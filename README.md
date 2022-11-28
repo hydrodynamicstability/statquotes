@@ -660,6 +660,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Analysis of Straight-Line Data*.  Wiley.
 
+- "A preoccupation with the logic of mathematics and the overemphasis of a convention called rigor are among the best known means for stifling interest in mathematics as a crutch to common sense."
+
+  - Ivan S. Sokolnikoff and Raymond M. Reddheffer (1958)
+  
+  - *Mathematics of Physics and Modern Engineering*.  McGraw-Hill.
+
 - "I shall avoid, as much as I can, those questions which, though they have elicited the skill of mathematicians, have not enlarged our knowledge of science."
 
   - James Clerk Maxwell (1873)
@@ -685,6 +691,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Andrew S. C. Ehrenberg (1990)
   
   - A hope for the future of statistics:  MSOD.  *The American Statistician*, 44:  195-196.
+
+- "The theory of computation has traditionally been studied almost entirely in the abstract, as a topic in pure mathematics.  That is to miss the point of it.  Computers are physical objects, and computations are physical processes.  What computers can or cannot compute is determined by the laws of physics alone, and not by pure mathematics."
+
+  - David Deutsch (1997)
+  
+  - *The Fabric of Reality:  Science of Parallel Universes---and its Implications*.  Viking.
 
 ## Statisticians, Physicists, and Social Science
 
