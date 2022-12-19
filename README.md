@@ -364,6 +364,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton).
 
+"Instead, to achieve an illusory psuedo-certainty, we dutifully  perform the ritual of computing a significance level or confidence interval, having forgotten the original purposes and assumptions underlying such techniques.  This 'technology' for interpreting evidence and generating conclusions has come to replace expert judgment to a large extent.  Scientists no longer trust their own intuition and judgment enough to risk modest failure in the quest for great success.  As a result, we are raising a generation of young researchers who are highly adept technically but have, in many cases, forgotten how to think for themselves."
+
+  - Herbert I. Weisberg (2014)
+  
+  - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
+
 ## Null hypothesis significance testing (NHST)
 
 - "Null hypotheses of no difference are usually known to be false before the data are collected....when they are, their rejection or acceptance simply reflects the size of the sample and the power of the test, and is not a contribution to science."
@@ -503,6 +509,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - Review of *Errors, Blunders, and Lies:  How to Tell the Difference*, by David S. Salsburg (Chapman & Hall/CRC Press, 2017).  *The American Statistician*, 73:  95-96.
 
+- "Indeed, an important aspect of expertise may be the wisdom to avoid prematurely offering firm numerical probability estimates...Statistical testing effectively served as a substitute for replication."
+
+  - Herbert I. Weisberg (2014)
+  
+  - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
+
 ## Statistical consulting
 
 - "A simple and almost ludicrous definition of the error of the third kind is *the error committed by giving the right answer to the wrong problem*.  In defining it this way we are allowing the statistician the benefit of the doubt by rejecting the possibility that he would give the wrong answer to the wrong question."
@@ -561,6 +573,11 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - William Stanley Jevons (1877)
 
   - *The Principles of Science:  A Treatise on Logic and Scientific Method*, second edition.  Macmillan.
+
+- "Variability and randomness are not identical."
+  - Herbert I. Weisberg (2014)
+  
+  - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
 
 - "For thirty years, I have found Bayesian statistics to be a rich source of mathematical questions.  However, I no longer see it as the preferred way to do applied statistics, because I find that uncertainty can rarely be quantified as probability."
 
