@@ -262,6 +262,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Forecasting accuracy of alternative techniques:  a comparison of U.S. macroecnomic forecasts.  *Journal of Business and Economic Statistics*: 4:  5-15.
   
+- "There is no way to infer the 'right' model from the data unless there is strong prior theory to limit the universe of possible models....That kind of strong theory is rarely available in the social sciences."
+
+  - David A. Freedman (2009)
+  
+  - *Statistical Models:  Theory and Practice*, revised edition (Cambridge University Press).
+ 
 - "There is no methodology in traditional statistics for assessing the adequacy of a model!  The only thing orthodox frequentist theory can do about models is to reject them, and Bayesian statistics cannot even do that.  Nonrejection does not imply that the model is correct; it does not even tell one whether it adequately represents the data.  On the other hand, a rejected model might be perfectly adequate."
 
   - Peter J. Huber (2006)
@@ -689,6 +695,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *A Treatise on Electricity and Magnetism*.  Clarendon.
 
+- "Since these equations are somewhat involved, we will not tarry in the general contemplation of them...."
+
+  - Daniel Bernoulli (1738)
+  
+  - *Hydrodynamica* (Strassburg:  Dulsecker) translated by Thomas Carmody and Helmut Kobus (New York:  Dover, 1968)
+
 ## Computing
 
 - "The purpose of computing is insight, not numbers."
@@ -702,6 +714,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Marcia McNutt (2020)
   
   - Self-correction by design.  *Harvard Data Science Review*, 2.4.
+
+- "The computer is a can-do machine.  it runs the regressions whether assumptions are true or false.  (Although even the computer has trouble if the design matrix is rank-deficient.)  The trouble is this.  If errors are dependent, the \[standard errors\] that the comptuer spits out can be quite biased....If the errors don't have mean 0, bias in the \[estimated model parameters\] is another big issue."
+
+  - David A. Freedman (2009)
+  
+  - *Statistical Models:  Theory and Practice*, revised edition (Cambridge University Press).
 
 - "Computers have released us from having to teach the nitty-gritty of our analytic techniques.  But this has mainly served to highlight the emperor's new clothes, namely the general lack of practical relevance of what we had been teaching."
 
