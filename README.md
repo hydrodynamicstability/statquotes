@@ -370,7 +370,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Radical Uncertainty:  Decision-Making Beyond the Numbers* (New York:  W. W. Norton).
 
-"Instead, to achieve an illusory psuedo-certainty, we dutifully  perform the ritual of computing a significance level or confidence interval, having forgotten the original purposes and assumptions underlying such techniques.  This 'technology' for interpreting evidence and generating conclusions has come to replace expert judgment to a large extent.  Scientists no longer trust their own intuition and judgment enough to risk modest failure in the quest for great success.  As a result, we are raising a generation of young researchers who are highly adept technically but have, in many cases, forgotten how to think for themselves."
+- "Instead, to achieve an illusory psuedo-certainty, we dutifully  perform the ritual of computing a significance level or confidence interval, having forgotten the original purposes and assumptions underlying such techniques.  This 'technology' for interpreting evidence and generating conclusions has come to replace expert judgment to a large extent.  Scientists no longer trust their own intuition and judgment enough to risk modest failure in the quest for great success.  As a result, we are raising a generation of young researchers who are highly adept technically but have, in many cases, forgotten how to think for themselves."
 
   - Herbert I. Weisberg (2014)
   
@@ -406,7 +406,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - W. Edwards Deming (1986)
 
-  - Foreword to the reprint of *Statstical Method from the Viewpoint of Quality Control* by Walter A. Shewhart (New York:  Dover).
+  - Foreword to the reprint of *Statistical Method from the Viewpoint of Quality Control* by Walter A. Shewhart (New York:  Dover).
 
 ## Confidence intervals
 
@@ -685,7 +685,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
 - "A preoccupation with the logic of mathematics and the overemphasis of a convention called rigor are among the best known means for stifling interest in mathematics as a crutch to common sense."
 
-  - Ivan S. Sokolnikoff and Raymond M. Reddheffer (1958)
+  - Ivan S. Sokolnikoff and Raymond M. Redheffer (1958)
   
   - *Mathematics of Physics and Modern Engineering*.  McGraw-Hill.
 
