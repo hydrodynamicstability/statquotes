@@ -689,6 +689,10 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Mathematics of Physics and Modern Engineering*.  McGraw-Hill.
 
+- "I do not refuse my dinner simply because I do not understand the process of digestion."
+
+  - [Oliver Heaviside](https://www.aps.org/publications/apsnews/201002/physicshistory.cfm)
+
 - "I shall avoid, as much as I can, those questions which, though they have elicited the skill of mathematicians, have not enlarged our knowledge of science."
 
   - James Clerk Maxwell (1873)
