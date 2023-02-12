@@ -116,7 +116,7 @@
   
   - Mathematics, statistics, and teaching.  *American Mathematical Monthly*, 104:  801-823.
 
-- "Always involved  in good experimental design are the following inherent characteristics:  (1) measurement is always comparative; (2) measurement is what is done, not what should be done.  Good experimental designs use these facts to help accuracy, rather than allowing them to hinder it."
+- "Always involved in good experimental design are the following inherent characteristics:  (1) measurement is always comparative; (2) measurement is what is done, not what should be done.  Good experimental designs use these facts to help accuracy, rather than allowing them to hinder it."
 
   - John W. Tukey (1953)
   
@@ -137,6 +137,12 @@
 - "If your experiment needs statistics, you ought to have done a better experiment."
 
   - Lord Ernest Rutherford, 1908 Nobel Laureate in Chemistry
+
+- "I'm seeing science right now.  We’re going statistics crazy with all this math, and then you don’t tell me how you housed your animals and what you fed them.  And that can totally change the results."
+
+  - Temple Grandin (2023)
+  
+  - [Lecture](https://iastate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa76d16f-50d8-462d-8e88-af9e0117dca7) at Iowa State University, Ames, Iowa, 2 Feb. 2023.
 
 ## Data description
 
