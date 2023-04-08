@@ -370,7 +370,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Dedication for the reprint of *Economic Control of Quality of Manufactured Product* by W. A. Shewhart (Milwaukee:  Quality Press).
 
-- "And because what we observe is not the outcome of a stationary process, conventional statistical inference rarely apples and forecasts are often based on shifting sands."
+- "And because what we observe is not the outcome of a stationary process, conventional statistical inference rarely applies and forecasts are often based on shifting sands."
 
   - John Kay and Mervyn King (2020)
 
