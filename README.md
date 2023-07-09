@@ -268,6 +268,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Generalized Linear Models*, second edition.  Chapman & Hall.
 
+- "A single model is a single story about the world, althought it might be written in equations instead of in flowery prose....Since each model represents only one perspective, there are infinitely many different models for any given situation."
+
+  - Erica Thompson (2022)
+
+  - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
+
 - "In my opinion, model users should be encouraged to think of models as tools that can aid in informing their judgment, rather than as substitutes for judgment that can best be employed mechanically."
 
   - Stephen K. McNees (1986)
