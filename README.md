@@ -250,6 +250,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
   - A place for philosophy?  The rise of modeling in statistical science.  *Quarterly of Applied Mathematics*, 4:  797-805.
 
+- "The kinds of question that are inside and outside the scope of a model are part of the nature of a model, determined by the priorities and interests of whoever made the model initially and probably also partly determined by mathematical...tractability.  It may seem obvious, but there is no point in trying to ask a model about something that is outside its scope."
+
+  - Erica Thompson (2022)
+
+  - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
+
 - "Using the data to guide the data analysis is almost as dangerous as not doing so." 
  
   - Frank E. Harrell, Jr. (2001)
