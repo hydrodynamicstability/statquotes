@@ -268,7 +268,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Generalized Linear Models*, second edition.  Chapman & Hall.
 
-- "A single model is a single story about the world, althought it might be written in equations instead of in flowery prose....Since each model represents only one perspective, there are infinitely many different models for any given situation."
+- "A single model is a single story about the world, althought it might be written in equations instead of in flowery prose....Since each model represents only one perspective, there are infinitely many different models for any given situation....\[W\]e are more likely to retain maximum information by keeping a diversity of models and considering how the strengths and limitations of each can inform our thinking in different ways.  To do so, we would need to write a thoughtful essay instead of simply presenting the results of various evaluation metrics.  The very best scientific papers *are* thoughtful essays, not mechanical presentations of model results, although the latter are disappointingly common.  Unfortunately, that process requires thinking (still a uniquely human input despite the hype about so-called artificial inteligence) and therefore does not lend itself well to automation, reproducibility or generalisation -- all of which are currently in fashion in science.  The cult of 'objectivity' ignores the reality of scientific methods and understanding, and encourages flattening of model information into quantitative metrics rather than informative judgments."
 
   - Erica Thompson (2022)
 
@@ -538,6 +538,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Herbert I. Weisberg (2014)
   
   - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
+
+- "It's becoming more and more common across the board for decisions to be outsourced to models.  Doing so assumes that the needs of the decision-maker can be adequately represented by a model and that those priorities won't change over time in a way that can't be represented."
+
+  - Erica Thompson (2022)
+
+  - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
 
 ## Statistical consulting
 
