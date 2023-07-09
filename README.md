@@ -657,6 +657,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Naive probabilism.  [Researchers.One](http://www.researchers.one/article/2020-03-9)
 
+- "Probabilistic forecasts of the real world are always inadequate and we would be wise not to stake too much on their success."
+
+  - Erica Thompson (2022)
+
+  - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
+
 ## Mathematics
 
 - "The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve."
