@@ -565,7 +565,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - Presidential Address.  *Sankhya: The Indian Journal of Statistics*, 4 (1):  14-17.
   
-- "The statistician who supposes that his main contribution to the planning of an experiment will involve statistical theory, finds repeatedly that he makes his most valuable contribution simply by persuading the investigator to epxlain why he wishes to do the experiment, by persuading him to justify the experimental treatments, and to explain why it is that the experiment, when completed, will assist him in his research."
+- "The statistician who supposes that his main contribution to the planning of an experiment will involve statistical theory, finds repeatedly that he makes his most valuable contribution simply by persuading the investigator to explain why he wishes to do the experiment, by persuading him to justify the experimental treatments, and to explain why it is that the experiment, when completed, will assist him in his research."
 
   - Gertrude M. Cox (1951)
 
@@ -605,6 +605,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - *The Principles of Science:  A Treatise on Logic and Scientific Method*, second edition.  Macmillan.
 
 - "Variability and randomness are not identical."
+  
   - Herbert I. Weisberg (2014)
   
   - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
