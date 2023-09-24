@@ -40,6 +40,12 @@
   
   - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
 
+- "Excessive consumption of data analysis may limit your ability to enjoy simple pleasures --- quantify in moderation."
+
+  - Coco Krumme (2012)
+ 
+  - [The trouble with taste](https://www.youtube.com/watch?v=E1dM3IqIQCw).  O'Reilly Strata Conference, Santa Clara, CA.
+  
 ## Data
 
 - "\[F\]or without data, everyone is an expert.  Issues that generate great disagreement and controversy are usually those where little factual data exist."
