@@ -823,6 +823,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Under Which Lyre*
 
+- "Long ago I said once that, in a crude sense which no vulgarity and no humor could quite erase, the physicist had known sin, and I didn't mean by that the deaths that were caused as a result of our work.  I meant that we had known the sin of pride.  We had turned to affect, in what proved to be a major way, the course of man's history.  We had that pride of thinking we knew what was good for man, and I do think it had left a mark on many of those who were responsibly engaged.  This is not the natural business of the scientist."
+
+  - J. Robert Oppenheimer (1965)
+ 
+  - Interview by Martin Agronsky for the *CBS Evening News with Walter Cronkite*, May 8, 1965.  Quoted in Ray Monk (2012), *Robert Oppenheimer:  A Life Inside the Center* (New York:  Doubleday).
+
 ## Should I be a statistician?
 
 Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contributions to statistics and statistical computing and probability and pedagogy.  What advice would you give to a young person today who wants to continue in your traditions?  What should he or she study and why?"
