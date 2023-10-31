@@ -829,6 +829,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
   - Interview by Martin Agronsky for the *CBS Evening News with Walter Cronkite*, May 8, 1965.  Quoted in Ray Monk (2012), *Robert Oppenheimer:  A Life Inside the Center* (New York:  Doubleday).
 
+- "I fell to thinking it a blame-worthy thing,...deserving no small punishment by God--to study and improve such a damnable exercise, destroyer of the human species....For which reason...not only did I wholly put off the study of such matters and turn to other studies, but also I destroyed and burned all my calculations and writings that bore on this subject....But now, seeing that the wolf is anxious to ravage our flock, while our shepherds hasten to the defense, it no longer appears permissible to me at present to keep these things hidden."
+
+  - Nicolo Tartaglia (1537) on the then-new science of ballistics
+ 
+  -  *Nova Scientia* (Venice)
+
 ## Should I be a statistician?
 
 Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contributions to statistics and statistical computing and probability and pedagogy.  What advice would you give to a young person today who wants to continue in your traditions?  What should he or she study and why?"
