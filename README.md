@@ -509,6 +509,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - The zeroth problem.  *The American Statistician*, 52:  1-9.
 
+- "I said there are only two ways a statistician can convince someone.  Either the audience follows the logic of the statistical argument or trusts the statistician as an authority."
+
+  - James R. Boen and Douglas A. Zahn (1982)
+ 
+  - *The Human Side of Statistical Consulting*.  Wadsworth.
+
 - "What should experimental statistics as a whole do about systematic errors?  Should we change from '95 percent confidence' to '5 percent diffidence' and impress on our clients that more diffidence has to be added because of systematic errors?  Have we been overselling our clients on the confidence with which they should accept the results of our analyses?  Is this why physics is the most-resistant of all the sciences to the penetration of statistics?"
 
   - John W. Tukey (1954)
@@ -565,6 +571,13 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - The future of data analysis. *Annals of Mathematical Statistics*, 33: 1-67.
 
+- "Some clients ask you to approve an action of theirs while avoiding letting you know anything about the goals of their investigation or the situation in which they are operating....A response of friendly confrontation may be necessary in which you kindly but firmly state that it is impossible for you to answer the client's question effectively without additional information regarding the situation in which the question arises and the overall goals of the research program.  You can explain that to answer the question without this information would make your answer shallow and possibly flatly wrong."
+
+  - James R. Boen and Douglas A. Zahn (1982)
+ 
+  - *The Human Side of Statistical Consulting*.  Wadsworth.
+
+
 - "To consult the statistician after an experiment is finished is often merely to ask him to conduct a *post mortem* examination.  He can perhaps say what the experiment died of."
 
   - Ronald A. Fisher (1938)
@@ -601,6 +614,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - John C. Bailar, III (1976)
   
   - Bailar's laws of data analysis.  *Clinical Pharmacology and Therapeutics*, 20:  113-119.
+
+- "Full-fledged statisticians can be difficult to work with."
+
+  - James R. Boen and Douglas A. Zahn (1982)
+ 
+  - *The Human Side of Statistical Consulting*.  Wadsworth.
 
 ## Probability
 
