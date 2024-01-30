@@ -364,6 +364,13 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Data Analysis:  What Can Be Learned from the Past 50 Years*.  Wiley.
 
+- "If he wants to test this hypothesis, one in twenty, he cannot do it from the same data that gave him the clue.  He must do another experiment all over again and then see if they alternate [i.e., the effect is reproduced].  He did, and it didn't work."
+
+  - Richard P. Feynman (1963)
+ 
+  - The John Danz lectures, University of Washington, Seattle.  *The Meaning of It All:  Thoughts of a Citizen-Scientist* (Perseus Books, 1998).
+
+
 - "Classical mathematical statistics....seeks to interpret patterns as chance fluctuations.  In its most rigid formulation, we decide upon models and hypotheses *before* seeing the data.  Then we compute estimates and carry out tests of our assumptions.  Classical statistics offers an antidote for some of the problems of magical thinking.  However, as a description of what a real scientist does when confronting a real, rich data base, it seems as far off as a primitive ritual....none of the classical theories of statistics comes close to capturing what a real scientist does when exploring new data in a real scientific problem.  All formal theories---Neyman-Pearson, decision-theoretic, Bayesian, Fisherian, and others---work with prespecified probability models."
 
   - Persi Diaconis (1985)
@@ -629,6 +636,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *The Principles of Science:  A Treatise on Logic and Scientific Method*, second edition.  Macmillan.
 
+- "I now turn to another kind of principle or idea, and that is that there is no sense in calculating the probability after it happens.  A lot of scientists don't even appreciate this....For example, I had the most remarkable experience this evening.  While coming in here, I saw license plate ANZ 912.  Calculate for me, please, the odds that of all the license plates in the state of Washington I should happen to see ANZ 912.  Well, it's a ridiculous thing."
+
+    - Richard P. Feynman (1963)
+ 
+    - The John Danz lectures, University of Washington, Seattle.  *The Meaning of It All:  Thoughts of a Citizen-Scientist* (Perseus Books, 1998).
+
 - "Variability and randomness are not identical."
   
   - Herbert I. Weisberg (2014)
@@ -694,6 +707,8 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - Erica Thompson (2022)
 
   - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
+
+
 
 ## Mathematics
 
