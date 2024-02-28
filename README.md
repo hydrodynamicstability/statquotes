@@ -790,7 +790,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - Self-correction by design.  *Harvard Data Science Review*, 2.4.
 
-- "The computer is a can-do machine.  it runs the regressions whether assumptions are true or false.  (Although even the computer has trouble if the design matrix is rank-deficient.)  The trouble is this.  If errors are dependent, the \[standard errors\] that the comptuer spits out can be quite biased....If the errors don't have mean 0, bias in the \[estimated model parameters\] is another big issue."
+- "The computer is a can-do machine.  It runs the regressions whether assumptions are true or false.  (Although even the computer has trouble if the design matrix is rank-deficient.)  The trouble is this.  If errors are dependent, the \[standard errors\] that the computer spits out can be quite biased....If the errors don't have mean 0, bias in the \[estimated model parameters\] is another big issue."
 
   - David A. Freedman (2009)
   
@@ -807,6 +807,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - David Deutsch (1997)
   
   - *The Fabric of Reality:  Science of Parallel Universes---and its Implications*.  Viking.
+
+- "The generation of random numbers is too important to be left to chance."
+
+  - [Robert Coveyou](https://maa.org/press/periodicals/convergence/quotations-in-context-coveyou) (1969)
+ 
+  - *Studies in Applied Mathematics*, ed. by B. R. Agins and M. H. Kalos, iii: 70–111 (SIAM).
 
 ## Statisticians, Physicists, and Social Science
 
