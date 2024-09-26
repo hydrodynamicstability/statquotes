@@ -439,6 +439,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Foreword to the reprint of *Statistical Method from the Viewpoint of Quality Control* by Walter A. Shewhart (New York:  Dover).
 
+- "No formal tests of significance can answer those questions [is there any other way of explaining the set of facts before us, is there any other answer equally, or more likely than cause and effect?].  Such tests can, and should, remind us of the effects that the play of chance can create, and they will instruct us in the likely magnitude of those effects.  Beyond that they contribute nothing to the 'proof' of our hypothesis....there are innumerable siutations in which [tests of significance] are totally unnecessary---because the difference is grossly obvious, because it is negligible, or because, whether it be formally significant or not, it is too small to be of any practical importance.  What is worse the glitter of the *t* table diverts attention from the inadequacies of the fare....too often I suspect we waste a deal of time, we grasp the shadow and lose the substance, we weaken our capacity to interpret data and to take reasonable decisions whatever the value of P.  And far too often we deduce 'no difference' from 'no significant difference.'  Like fire, the [chi-square] test is an excellent servant and a bad master."
+
+    - Austin Bradford Hill (1965)
+ 
+    - "The environment and disease:  association or causation?"  President's address, Jan. 14, 1965.  *Proceedings of the Royal Society of Medicine*, vol. 58, no. 5, pp. 295-300.
+
 ## Confidence intervals
 
 - "On the whole, however, tests of significance are less frequently useful in experimental work than confidence limits.  In many experiments it seems obvious that the different treatments must have produced some difference, however small, in effect.  Thus the hypothesis that there is *no* difference is unrealistic; the real problem is to obtain estimates of the sizes of the differences."
