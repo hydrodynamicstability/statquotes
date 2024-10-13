@@ -570,6 +570,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
 
+- "In asking for very strong evidence I would, however, repeat emphatically that this does not imply crossing every 't', and swords with every critic, before we act. All scientific work is incomplete -- whether it be observational or experimental. All scientific work is liable to be upset or modified by advancing knowledge. That does not confer upon us a freedom to ignore the knowledge we already have, or to postpone the action that it appears to demand at a given time."
+
+  - Sir Austin Bradford Hill (1965)
+ 
+  - The environment and disease:  association or causation?  *Proceedings of the Royal Society of Medicine*, 58 (5):  295-300.
+
 ## Statistical consulting
 
 - "A simple and almost ludicrous definition of the error of the third kind is *the error committed by giving the right answer to the wrong problem*.  In defining it this way we are allowing the statistician the benefit of the doubt by rejecting the possibility that he would give the wrong answer to the wrong question."
@@ -633,6 +639,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - James R. Boen and Douglas A. Zahn (1982)
  
   - *The Human Side of Statistical Consulting*.  Wadsworth.
+
+- "Don't let being a Bayesian stop you from doing something useful."
+
+  - Doug Nychka
+ 
+  - Quoted by Matt Heaton, 5 October 2024, American Statistical Association, Section on Statistics and the Environment (ENVR) Workshop, National Center for Atmospheric Research, Boulder, Colorado.
 
 ## Probability
 
@@ -888,6 +900,15 @@ Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contrib
 Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell them is, 'Don't go into statistics.'  My feeling is, to some extent, that academic statistics may have lost its way."
 
 (From A Conversation with Leo Breiman, *Statistical Science*, 16:  184-198.)
+
+## How John J. Hopfield (2024 Nobel Laureate in Physics) was discouraged from moving into biology
+
+Attending a conference on hemoglobin at Villa Serbelloni, Bellagio, Lake Como, Italy, in the summer of 1970, Prof. Hopfield was told the following by a "senior biochemist":
+
+"[G]entlemen did not interpret other gentlemen’s data, and preferably worked on different organisms. If you wish to interpret data, you must get your own. Only the experimentalist himself knows which of the data points are reliable, and so only he should interpret them. Moreover, if you insist on interpreting other people’s data, they will not publish their best data. Biology is very complicated, and any theory with mathematics is such an oversimplification that it is essentially wrong and thus
+useless."
+
+Source:  J. J. Hopfield, 2014:  Two cultures?  Experiences at the physics-biology interface.  *Physical Biology*, 11:  053002.
 
 ## Miscellaneous
 
