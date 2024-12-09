@@ -914,6 +914,8 @@ Source:  J. J. Hopfield, 2014:  Two cultures?  Experiences at the physics-biolog
 
 See [Meredith G. Warshaw's Field Guide to Atypical Statistics](http://www.uniquelygifted.org/fieldguide.htm).
 
+See also Philip B. Stark's [list](https://www.stat.berkeley.edu/~stark/other.htm) of his own sayings and quotations from others.
+
 ## Note on Github flavored markdown
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
