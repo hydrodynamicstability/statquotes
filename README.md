@@ -724,8 +724,20 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Erica Thompson (2022)
 
-  - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (Basic Books).
+  - *Escape from Model Land:  How Mathematical Models Can Lead Us Astray and What We Can Do About It* (New York:  Basic Books).
 
+- "\{I\]t should be borne in mind that numerical probabilities are not the principal object of the theory.  Its aim is to discover general laws and to construct satisfactory theoretical models....practical and *useful probability models may refer to non-observable worlds*....Probability theory would be effective and useful even if not a single numerical value were accessible."
+
+  - William Feller (1970)
+ 
+  -  *An Introduction to Probability Theory and Its Appications*, revised third edition, Introduction (New York:  Wiley).
+
+
+- "Before we speak of probabilities, we must agree on an idealized model of a particular conceptual experiment such as tossing a coin, sampling kangaroos on the moon, observing a particle under diffusion, counting the number of telephone calls.  At the outset we must agree on the possible outcomes of this experiment (our *sample space*) and the probabilities associated with them.  This is analogous to the procedure in mechanics when fictitious models involving two, three, or seventeen mass points are introduced, these points being devoid of individual properties."
+
+  - William Feller (1970)
+ 
+  -  *An Introduction to Probability Theory and Its Appications*, revised third edition, Introduction (New York:  Wiley).
 
 
 ## Mathematics
