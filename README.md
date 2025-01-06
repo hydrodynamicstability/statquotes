@@ -407,6 +407,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
 
+- "In truth, most problems of inference in science and the professions do not lend themselves to effective probabilistic or statistical treatment.  An understanding of the intellectual content of applied probability and applied statistics must therefore include an understanding of their limits.  What are the characteristics of problems in which statistical logic is not helpful?  What are the alternatives that scientists, engineers, and others use?"
+
+  - Glen Shafer (1990)
+ 
+  - "The unity and diversity of probability" (with discussion), *Statistical Science*, 5:  435-462.
+
 ## Null hypothesis significance testing (NHST)
 
 - "Null hypotheses of no difference are usually known to be false before the data are collected....when they are, their rejection or acceptance simply reflects the size of the sample and the power of the test, and is not a contribution to science."
@@ -671,6 +677,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - David A. Freedman (1991)
 
   - A rejoinder to Berk, Blalock, and Mason.  *Sociological Methodology*, 21:  353-358.
+
+- "The only situation that the mathematical theory of probability models directly is still the very special situation studied by Pascal and Fermat, the special situation where we flip a coin or play some other game with known chances."
+
+  - Glen Shafer (1990)
+ 
+  - "The unity and diversity of probability" (with discussion), *Statistical Science*, 5:  435-462.
 
 - "Bayesian techniques assume we know all the alternate possible states of nature, yet the great gains in knowledge come when we find that our 'knowledge' was quite wrong."
 
