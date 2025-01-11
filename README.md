@@ -60,6 +60,12 @@
   
   - The national system of scientific measurement.  *Science*, 210:  869-874.
 
+- "Any fool can take data.  It's taking good data that counts."
+
+  - Attributed to Eugene Commins (who denied saying it)
+ 
+  - Source:  American Institute of Physics [oral history interview of Allan Franklin by David Zierler](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/44803), 12 May 2020.
+
 - "Data are not just numbers, they are numbers with a context."
 
   - George W. Cobb and David S. Moore (1997)
@@ -291,7 +297,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - David A. Freedman (2009)
   
   - *Statistical Models:  Theory and Practice*, revised edition (Cambridge University Press).
- 
+
 - "There is no methodology in traditional statistics for assessing the adequacy of a model!  The only thing orthodox frequentist theory can do about models is to reject them, and Bayesian statistics cannot even do that.  Nonrejection does not imply that the model is correct; it does not even tell one whether it adequately represents the data.  On the other hand, a rejected model might be perfectly adequate."
 
   - Peter J. Huber (2006)
@@ -652,6 +658,8 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
   - Quoted by Matt Heaton, 5 October 2024, American Statistical Association, Section on Statistics and the Environment (ENVR) Workshop, National Center for Atmospheric Research, Boulder, Colorado.
 
+See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/en/some-general-remarks-consulting), Statistical Society of Canada *Liaison*, 13.1 (1991).
+
 ## Probability
 
 - "It is curious how often the most acute and powerful intellects have gone astray in the calculation of probabilities."
@@ -879,6 +887,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - G. E. P. Box (2006)
 
   - *Improving Almost Anything:  Ideas and Essays*, revised edition.  Wiley.
+
+- "But, as [Max] Planck fully realized, finding an empirical formula, one that fits the data but is not based on a physical picture of the process being described, can never be an end in itself in physics."
+
+  - Robert H. March (1970)
+ 
+  - *Physics for Poets* (New York:  McGraw-Hill), p. 190.
 
 - "Statistics has definitely evolved into a field in which people can do their work without actually seeing and doing applications."
 
