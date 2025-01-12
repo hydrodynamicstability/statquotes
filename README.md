@@ -786,7 +786,7 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
 
   - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
 
-- "All to often, statistical theory is miscalled mathematical statistics, about which too many practitioners (even some them Englishmen!) take the dangerous view that work can be good mathematical statistics without being either good mathematics or good statistics."
+- "All to often, statistical theory is miscalled mathematical statistics, about which too many practitioners...take the dangerous view that work can be good mathematical statistics without being either good mathematics or good statistics."
 
   - John W. Tukey (1972)
 
@@ -863,6 +863,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   - [Robert Coveyou](https://maa.org/press/periodicals/convergence/quotations-in-context-coveyou) (1969)
  
   - *Studies in Applied Mathematics*, ed. by B. R. Agins and M. H. Kalos, iii: 70–111 (SIAM).
+
+- "Some of these people work--as they say in the software business--with their heads up.  They talk to their colleagues on the floor, with designers, maybe even with users or the sales team.  They collaborate.  As they do, their value rises.  Pull them out of the operation and a whole series of connections goes dead.  Others are known in the profession as heads-down.  They're on their own.  In the world we're entering, head-down workers who are not highly skilled are vulnerable.  Since they are not knitted into the greater fabric of the project, they can be more easily replaced, like stand-alone machines, by cheaper head-down workers offshore.  After all, numbers and computer codes zip offshore far faster than auto plants do."
+
+  - Stephen Baker (2008)
+ 
+  - *The Numerati* (Boston:  Houghton Mifflin).
 
 ## Statisticians, Physicists, and Social Science
 
