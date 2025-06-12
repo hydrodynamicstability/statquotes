@@ -413,6 +413,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - *Willful Ignorance:  The Mismeasure of Uncertainty* (Hoboken:  Wiley)
 
+- "Today I do not believe there is any chance for a single unifying approach to inference."
+
+  - John W. Tukey (1990)
+ 
+  - Foreword to *The Collected Works of John W. Tukey.  Volume VI:  More Mathematical:  1918-1984* (Belmont, CA:  Wadsworth).
+
 - "In truth, most problems of inference in science and the professions do not lend themselves to effective probabilistic or statistical treatment.  An understanding of the intellectual content of applied probability and applied statistics must therefore include an understanding of their limits.  What are the characteristics of problems in which statistical logic is not helpful?  What are the alternatives that scientists, engineers, and others use?"
 
   - Glen Shafer (1990)
