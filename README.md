@@ -485,7 +485,20 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   
   - The growth of experimental design in a research laboratory.  In *Research Operations in Industry: Papers Delivered at the Third Annual Conference on Industrial Research, June 1952. With Selected Papers from the First and Second Conferences*, ed. by D. B. Hertz.  Columbia University Press, pp. 303-313.
 
+## Systematic error
 
+- "Half of all three-sigma results are wrong...it's the systematic errors that kill you."
+
+    - John Bahcall (2000)
+ 
+    - Quoted in C. Seife, 2000:  CERN's gamble shows perils, rewards of playing the odds.  *Science*, 289:  2260-2262.
+
+- "Statisticians must face up to the existence and varying importance of systematic errors."
+
+  - John W. Tukey (1954)
+ 
+  - Unsolved problems of experimental statistics.  *Journal of the American Statistical Association*, 49: 706-731.
+  
 ## Statistical conclusions
 
 - "Absence of evidence is not evidence of absence."
