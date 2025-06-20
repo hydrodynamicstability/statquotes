@@ -444,6 +444,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - John W. Tukey (1991)
   
   - The philosphy of multiple comparisons.  *Statistical Science*, 6:  100-116.
+ 
+- "How about 'alpha and beta risks' and 'testing the null hypothesis'?  Ah, *there's* the rub.  The very beginning language employed by the statistician describes phenomena in which engineers/physical scientists have little practical interest!  They want to know how many, how much, and how well are we doing.  Required are interval estimates.  We offer instead hypothesis tests and power curves."
+
+  - J. Stuart Hunter (1990)
+ 
+  - Commentary (p. 261) to A. B. Hoadley & J. R. Kettenring (1990), Communications between statisticians and engineers/physical scientists.  *Technometrics*, 32:  243-247.
 
 - NHST "often amounts to uncertainty laundering. Any study, no matter how poorly designed and conducted, can lead to statistical significance and thus a declaration of truth or falsity. NHST was supposed to protect researchers from over-interpreting noisy data. Now it has the opposite effect."
 
