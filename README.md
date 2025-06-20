@@ -676,6 +676,18 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
   - James R. Boen and Douglas A. Zahn (1982)
  
   - *The Human Side of Statistical Consulting*.  Wadsworth.
+ 
+- "We must keep in mind that we communicate by our behavior as well as through the spoken and written word.  We communicate to others what we value by what we do and do not do, what we pay attention to, how we spend our time, and so forth.  If 'we don't walk our talk,' we will likely hear the comment, 'Your actions speak so loudly that I can't hear what you are saying.'"
+
+  - Ronald D. Snee (1990)
+ 
+  - Commentary (pp. 267-269) to A. B. Hoadley & J. R. Kettenring (1990), Communications between statisticians and engineers/physical scientists.  *Technometrics*, 32:  243-247.
+ 
+- "In some cases I have worked with very large companies, large enough to have a stable of statisticians.  I have met with groups of them to answer their question, 'What do you recommend we do?'  I am encouraged that they ask but discouraged that they have to ask.  On one occasion, I was joined by a colleague from Japan, a professor of statistics at a Japanese university.  When the collected statisticians asked for his advice, he said, 'Forget you are a statistician.'"
+
+  - Myron Tribus (1990)
+ 
+  - Commentary (pp. 271-272) to A. B. Hoadley & J. R. Kettenring (1990), Communications between statisticians and engineers/physical scientists.  *Technometrics*, 32:  243-247.
 
 - "Don't let being a Bayesian stop you from doing something useful."
 
