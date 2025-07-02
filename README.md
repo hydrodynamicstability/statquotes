@@ -925,6 +925,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   
   - Speculations on the path of statistics.  In *The Practice of Data Analysis:  Essays in Honor of John W. Tukey*, ed. by D. R. Brillinger, L. T. Fernholz, and S. Morgenthaler.  Princeton University Press, pp. 175-192.
 
+- "...many statisticians lack the background in hard science and engineering to make content contributions to industrial development projects; consequently, they may be regarded as little more than 'data technicians'....Statistics programmes should work actively to recruit students from engineering and the physical sciences and not just from mathematics."
+
+  - Douglas C. Montgomery (2001)
+ 
+  - Opportunities and challenges for industrial statisticians.  *Journal of Applied Statistics*, 28:  427-439.
+
 - "Are physical scientists and engineers too foolish to recognize the value of statistics?  I don't think so.  Rather I think they understand that the basic philosophy that motivates much of the statistics taught in universities is not appropriate for what they do."
 
   - G. E. P. Box (2006)
