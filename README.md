@@ -633,6 +633,11 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
   - *The Human Side of Statistical Consulting*.  Wadsworth.
 
+- "The main challenge of applied statistical work is that of taking proper account of contextual issues.  Good techniques are not enough; nor are good computer programs, nor powerful theorems.  A major intellectual attraction of the discipline is the subtlety of the interplay between the formal statistical procedures and the imperfectly understood substantive questions.  The formulation of clean questions is often an important part of an inquiry."
+
+  - Colin P. Mallows (1998)
+ 
+  - The zeroth problem.  *The American Statistician*, 52:  1-9.
 
 - "To consult the statistician after an experiment is finished is often merely to ask him to conduct a *post mortem* examination.  He can perhaps say what the experiment died of."
 
