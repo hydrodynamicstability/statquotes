@@ -221,6 +221,12 @@ Mathematical Association of America, pp. 107–122
 
 ## Statistical modeling
 
+- "A theory has only the alternative of being right or wrong. A model has a third possibility: it may be right, but irrelevant."
+
+  - Manfred Eigen (1973)
+ 
+  - The origin of biological information.  In *The Physicist's Conception of Nature* ed. by J. Mehra (Dordrecht:  Springer), pp.594-632
+  
 - "Essentially, all models are wrong, but some are useful." 
 
   - George E.P. Box
