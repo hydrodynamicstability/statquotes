@@ -54,6 +54,12 @@
   
   - In pursuit of total quality. *Quality Progress*, 20 (8): 25-31.
 
+- "A real conflict must exist if those who want to shout louder want to learn less."
+
+  - R. Hobart Ellis Jr. (1969)
+ 
+  - Editorial.  *Physics Today*, Jan. 1969, p. 154.
+
 - "Data, if it is of poor quality, becomes a pollutant to clear thinking and rational decisions."
 
   - J. Stuart Hunter (1980)
@@ -998,6 +1004,14 @@ Richard Olshen:  "Leo, you have a record of wide-ranging interest in and contrib
 Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell them is, 'Don't go into statistics.'  My feeling is, to some extent, that academic statistics may have lost its way."
 
 (From A Conversation with Leo Breiman, *Statistical Science*, 16:  184-198.)
+
+## Should I be a physicist?
+
+"And there's a related factor [causing declining enrollments in physics] that I mention with some trepidation, though I happen to think it is very significant.  It's the thing that came closest to driving *me* out of the field, and I believe it is the main reason why so few women choose physics:  As a group, physicists are notoriously harsh on one another and arrogant towards others.  There is a nasty competitive quality to much of our professional discourse--a kind of school-yard ranking--that is as demoralizing, to some, as it is distasteful.  Pauli was, I suppose, the all-time master of the withering put-down (never mind that he was frequently wrong), but it's a disease we all share to some degree, when we declare a problem 'trivial' or show off 'back-of-the-envelope' calculations we have carefully rehearsed."
+
+  - David J. Griffiths (1997)
+
+  - Millikan Lecture 1997:  Is there a text in this class?  *American Journal of Physics*, 65:  1141-1143.
 
 ## How John J. Hopfield (2024 Nobel Laureate in Physics) was discouraged from moving into biology
 
