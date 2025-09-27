@@ -880,6 +880,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   
   - *Hydrodynamica* (Strassburg:  Dulsecker) translated by Thomas Carmody and Helmut Kobus (New York:  Dover, 1968)
 
+- "I have never taken much interest in what appears to me as mathematics which has nothing to do with any tangible objects."
+
+  - Sir Geoffrey Ingram Taylor (1975)
+
+  - Quoted in G. K. Batchelor, An unfinished diaglogue with G. I. Taylor.  *Journal of Fluid Mechanics*, 70:  625-638.
+
 ## Computing
 
 - "The purpose of computing is insight, not numbers."
