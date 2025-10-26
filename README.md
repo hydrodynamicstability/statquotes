@@ -151,6 +151,12 @@
   - George E.P. Box, William G. Hunter, and J. Stuart Hunter (1978)
   
   - *Statistics for Experimenters:  An Introduction to Design, Data Analysis, and Model Building*.  Wiley.
+ 
+- "Trite and obvious as the remark may be, it is important to know what you are seeking.  It is less well understood that you should also plan your work to increase the chances that an unusual observation will be found."
+
+  - Richard W. Hamming (1962)
+ 
+  - *Numerical Methods for Scientists and Engineers* (McGraw-Hill).
   
 - "If your experiment needs statistics, you ought to have done a better experiment."
 
