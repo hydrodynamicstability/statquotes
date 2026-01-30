@@ -487,6 +487,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
     - "The environment and disease:  association or causation?"  President's address, Jan. 14, 1965.  *Proceedings of the Royal Society of Medicine*, vol. 58, no. 5, pp. 295-300.
 
+- "Probably the most telling criticism of this theory of testing hypotheses is that it poses the wrong problems.  For example, an experimenter is rarely, if ever, really interested in testing the hypothesis that eight varieties of wheat all have the same yield.  (It is almost incredible that they should.  What is really being tested is that the variation among their yields is 'not large'.)  Yet that is what several famous tests are designed to test.  In fact, as the tests are universally applied, it is concluded that all eight varieties have the same, or essentially the same, yield, unless the contrary is clearly demonstrated, i.e., unless a 'significant' result is obtained!  (Nor do these tests say what one is to do when a significant result is obtained.)  Yet, first-rate statisticians, who freely acknowledge the validity of these criticisms, write papers about the admissibility, stringency, etc., of these tests.  At their best, these papers deal with difficult problems whose solution requires considerable skill and ingenuity.  However, they do not contribute to the essential development of statistics or to the solution of realistic problems, nor are they of permanent mathematical interest per se.  What a pity to waste this talent and energy!"
+
+  - Jacob Wolfowitz (1970)
+ 
+  - Reflections on the future of statistics.  In *Essays in Probability and Statistics*, ed. by R. C. Bose, I. M. Charkavarti, P. C. Mahalanobis, C. R. Rao, and K. J. C. Smith (Chapel Hill:  University of North Carolina Press), pp. 739-750.
+
 ## Confidence intervals
 
 - "On the whole, however, tests of significance are less frequently useful in experimental work than confidence limits.  In many experiments it seems obvious that the different treatments must have produced some difference, however small, in effect.  Thus the hypothesis that there is *no* difference is unrealistic; the real problem is to obtain estimates of the sizes of the differences."
@@ -935,6 +941,15 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   - Stephen Baker (2008)
  
   - *The Numerati* (Boston:  Houghton Mifflin).
+ 
+## History of Science
+
+- "Just as a taste for good literature is developed by reading good books, so good taste in science comes from knowing the great achievements of the past and how they fitted into the structure of the knowledge of their time."
+
+  - Jacob Wolfowitz (1970)
+ 
+  - Reflections on the future of statistics.  In *Essays in Probability and Statistics*, ed. by R. C. Bose, I. M. Charkavarti, P. C. Mahalanobis, C. R. Rao, and K. J. C. Smith (Chapel Hill:  University of North Carolina Press), pp. 739-750.
+
 
 ## Statisticians, Physicists, and Social Science
 
