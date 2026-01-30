@@ -724,7 +724,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
  
   - Quoted by Matt Heaton, 5 October 2024, American Statistical Association, Section on Statistics and the Environment (ENVR) Workshop, National Center for Atmospheric Research, Boulder, Colorado.
 
-See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/en/some-general-remarks-consulting), Statistical Society of Canada *Liaison*, 13.1 (1991).
+See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/en/some-general-remarks-consulting), Statistical Society of Canada *Liaison*, 13.1 (1991).  For those seeking a statistical consultant, see [When you consult a statistician...what to expect](https://community.amstat.org/cnsl/forclients/expect-content).
 
 ## Probability
 
