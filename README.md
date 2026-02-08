@@ -32,7 +32,7 @@
 
   - Daniel Kleppner (1992)
  
-  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-10.
+  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-11.
 
 - "The most important maxim for data analysis to heed, and one which many statisticians seem to have shunned, is this:  'Far better an approximate answer to the *right* question, which is often vague, than an *exact* answer to the wrong question, which can always be made precise.'  Data analysis must progress by approximate answers, at best, since its knowledge of what the problem really is will at best be approximate.  It would be a mistake not to face up to this fact, for by denying it, we would deny ourselves the use of a great body of approximate knowledge, as well as failing to maintain alertness to the possible importance in each particular instance of particular ways in which our knowledge is incomplete."
 
@@ -350,7 +350,7 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Daniel Kleppner (1992)
  
-  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-10.
+  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-11.
     
 ## Categorical data
 
@@ -1003,7 +1003,7 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
 
   - Daniel Kleppner (1992),  Lester Wolfe Professor Emeritus of Physics at MIT.
  
-  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-10.
+  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-11.
 
 - "Statistics has definitely evolved into a field in which people can do their work without actually seeing and doing applications."
 
