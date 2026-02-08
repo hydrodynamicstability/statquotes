@@ -28,6 +28,12 @@
   
   - Are Life Scientists Overawed by Statistics? (Too Much Faith in Statistics), *Scientific Research*, 4: 24–29.
 
+- "If you need to rely on statistics, you need to worry."
+
+  - Daniel Kleppner (1992)
+ 
+  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-10.
+
 - "The most important maxim for data analysis to heed, and one which many statisticians seem to have shunned, is this:  'Far better an approximate answer to the *right* question, which is often vague, than an *exact* answer to the wrong question, which can always be made precise.'  Data analysis must progress by approximate answers, at best, since its knowledge of what the problem really is will at best be approximate.  It would be a mistake not to face up to this fact, for by denying it, we would deny ourselves the use of a great body of approximate knowledge, as well as failing to maintain alertness to the possible importance in each particular instance of particular ways in which our knowledge is incomplete."
 
   - John W. Tukey (1962)
@@ -340,6 +346,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Quoted in K. Josic, A conversation with mathematical consultant John D. Cook.  *SIAM News*, 55 (5):  7-8 (June 2022).
 
+- "Although 'eyeballing' the data as I had done can hardly be called statistical analysis, the fact remains that whenever you have an element of random behavior in your data, you can easily fool yourself.  With today's cheap and powerful workstations you can accumulate vast piles of data, analyze them in a jiffy and apply sophisticated statistical tests to reassure yourself that the data are consistent and that all is well.  What you have really achieved, however, is the ability to fool yourself in a highly sophisticated manner."
+
+  - Daniel Kleppner (1992)
+ 
+  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-10.
+    
 ## Categorical data
 
 - "Cross-tabulation before regression." 
@@ -986,6 +998,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   - Robert H. March (1970)
  
   - *Physics for Poets* (New York:  McGraw-Hill), p. 190.
+
+- "The power of statistics to deceive is so well known that the title 'statistician' is slightly suspect."
+
+  - Daniel Kleppner (1992),  Lester Wolfe Professor Emeritus of Physics at MIT.
+ 
+  - Fretting about statistics.  *Physics Today*, vol. 45, no. 7, pp. 9-10.
 
 - "Statistics has definitely evolved into a field in which people can do their work without actually seeing and doing applications."
 
