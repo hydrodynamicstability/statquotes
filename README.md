@@ -1058,6 +1058,14 @@ Leo Brieman:  "Well Richard, I'm torn in a way because what I might even tell th
 
   - Millikan Lecture 1997:  Is there a text in this class?  *American Journal of Physics*, 65:  1141-1143.
 
+## Should I be a climate physicist?
+
+"I started a DPhil in the atmospheric physics department at Oxford because I had some idealistic notion of contributing to the world’s knowledge of global warming and its potential dangers. I was rather dismayed to discover how fervently scientists on both sides of the climate-change argument could argue their particular thesis and manipulate the data to prove their conclusions. It seemed a little like religious faith -- if you believed a thing to be true, then it could be -- and I got the distinct impression that I was about to embark on the same process. Once I got stuck into being at the computer every day, I knew this was not the right place for me."
+
+  - Christine Rice, MBE, renowned mezzo-soprano (2009)
+
+  - [*Physics World*, 22 (1):  39](https://physicsworld.com/a/once-a-physicist-christine-rice/).
+
 ## How John J. Hopfield (2024 Nobel Laureate in Physics) was discouraged from moving into biology
 
 Attending a conference on hemoglobin at Villa Serbelloni, Bellagio, Lake Como, Italy, in the summer of 1970, Prof. Hopfield was told the following by a "senior biochemist":
