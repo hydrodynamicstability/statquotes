@@ -864,7 +864,7 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
 
   - The future of data analysis.  *Annals of Mathematical Statistics*, 33:  1-67.
 
-- "All to often, statistical theory is miscalled mathematical statistics, about which too many practitioners...take the dangerous view that work can be good mathematical statistics without being either good mathematics or good statistics."
+- "All too often, statistical theory is miscalled mathematical statistics, about which too many practitioners...take the dangerous view that work can be good mathematical statistics without being either good mathematics or good statistics."
 
   - John W. Tukey (1972)
 
@@ -909,6 +909,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   - Sir Geoffrey Ingram Taylor (1975)
 
   - Quoted in G. K. Batchelor, An unfinished diaglogue with G. I. Taylor.  *Journal of Fluid Mechanics*, 70:  625-638.
+
+- "As one wit put it, the applied mathematician can find the solution to any difficulty, whereas the pure mathematician can find the difficulty to any solution."
+
+  - Harvey P. Greenspan (1961)
+ 
+  - Applied mathematics as a science.  *American Mathematical Monthly*, 68:  872-880.
 
 ## Computing
 
