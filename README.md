@@ -846,7 +846,7 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   
   - The unreasonable effetiveness of mathematics in the natural sciences.  *Communications in Pure and Applied Mathematics*, 13:  1-14.
 
-- "Does anyone believe that the difference between the Lebesgue and Riemann integrals can have physical significance, and that whether say, an airplane would or would not fly could depend on this difference? If such were claimed, I should not care to fly in that plane."
+- "Does anyone believe that the difference between the Lebesgue and Riemann integrals can have physical significance, and that whether say, an airplane would or would not fly could depend on this difference? If such were claimed, I should not care to fly in that plane....I am also trying to show that the computing expert needs to be wary of believing much that he learns in his mathematics courses; in a sense he must learn mathematics so well that he can defend himself against it."
 
   - Richard W. Hamming (1998)
   
