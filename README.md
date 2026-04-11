@@ -993,6 +993,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
  
   - Opportunities and challenges for industrial statisticians.  *Journal of Applied Statistics*, 28:  427-439.
 
+- "Now research workers in both science and technology define ends which they wish to achieve and they need technology to achieve them.  As there are specific pieces of technology depending upon the problem under study, so I propose that there are general technological principles that are applicable across wide areas of research; these principles, the technology of research itself, consist of statistical methodology.  As statisticians, certainly as applied statisticians, we do best to think of ourselves not as mathematicians, nor as scientists, but as technologists."
+
+  - Michael J. R Healy (1978)
+
+  - Is statistics a science?  *Journal of the Royal Statistical Society*, A141 (3):  385-393.
+
 - "Are physical scientists and engineers too foolish to recognize the value of statistics?  I don't think so.  Rather I think they understand that the basic philosophy that motivates much of the statistics taught in universities is not appropriate for what they do."
 
   - G. E. P. Box (2006)
