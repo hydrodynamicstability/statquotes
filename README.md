@@ -120,6 +120,12 @@
   
   - Analyzing data:  sanctification or detective work?  *American Psychologist*, 24 (2):  83-91.
 
+- "Do not fall in love with data."
+
+  - Michael Pidd (1999)
+ 
+  - Just modeling through:  a rough guide to modeling.  *Interfaces*, 29 (2):  118-132.
+
 ## Experimental design
 
 - "The purpose of statistics in laboratories should be to save labor, time, and expense by efficient experimental designs.  But all too frequently statisticians impose all kinds of nonsensical conditions on the poor biologist or psychologist--conditions which, although they produce unequivocal statistical results, actually hinder him in his research."
@@ -215,6 +221,12 @@ Mathematical Association of America, pp. 107–122
   - Persi Diaconis (1985)
 
   - Theories of data analysis:  From magical thinking through classical statistics.  In *Exploring Data Tables, Trends, and Shapes*, ed. by D. C. Hoaglin, F. Mosteller, and J. W. Tukey.  Wiley, pp. 1-36.
+
+- "The slapdash use of exploratory data analysis can never replace careful thought and analysis."
+
+  - Michael Pidd (1999)
+ 
+  - Just modeling through:  a rough guide to modeling.  *Interfaces*, 29 (2):  118-132.
 
 - "Exploratory data analysis:  The practice of studying data without preconceived notions as a means of obtaining ill-conceived ones.  The art of seeing a Rembrandt in a Jackson Pollock."
 
