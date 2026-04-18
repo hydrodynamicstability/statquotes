@@ -1,3 +1,5 @@
+(Please note:  I do not necessarily agree with every quote listed!)
+
 ## Statistics
 
 - "It is easy to lie with statistics, but it is easier to lie without them." 
