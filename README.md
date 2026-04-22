@@ -433,6 +433,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Compounding probabilities from independent significance tests.  *Econometrica*, 10:  229-248.
 
+- "Nonetheless, all basic statistical methods assume the analysis was prespecified; that is, they assume analysis choices were made without regard to the results they produced."
+
+  - Sander Greenland (2025)
+ 
+  - Statistical methods: basic concepts, interpretations, and cautions. *Handbook of Epidemiology*, ed. by W. Ahrens and I. Pigeot (New York: Springer).
+
 - "The econometric art as it is practiced at the computer terminal involves fitting many, perhaps thousands, of statistical models. One or several that the researcher finds pleasing are selected for reporting purposes. This searching for a model is often well intentioned, but there can be no doubt that such a specification search invalidates the traditional theories of inference. The concepts of unbiasedness, consistency, efficiency, maximum-likelihood estimation, in fact, all the concepts of traditional theory, utterly lose their meaning by the time an applied researcher pulls from the bramble of computer output the one thorn of a model he likes best, the one he chooses to portray as a rose.  The consuming public is hardly fooled by this chicanery...Hardly anyone takes data analyses seriously. Or perhaps more accurately, hardly anyone takes anyone else's data analyses seriously. Like elaborately plumed birds who have long since lost the ability to procreate but not the desire, we preen and strut and display our *t*-values....Because both the sampling distribution and the prior distribution are actually *opinions* and not *facts*, a statistical inference is and must forever remain an *opinion*."
 
   - Edward E. Leamer (1983)
