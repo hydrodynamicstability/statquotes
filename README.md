@@ -545,6 +545,14 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
   - Discussion of Jerzy Neyman's paper, On the two different aspects of the representative method:  the method of stratified sampling and the method of purposive selection, *Journal of the Royal Statistical Society*, 97:  558-625.
 
+## Multiplicity
+
+- "If we wish to ensure that the probability of making at least one type I error is not greater than $\alpha$, we must know 'per what' we are to control this error:  per hypothesis test, per question, per trial, per drug development programme, per lifetime of the statistician, for all science for ever?  *This* is the really difficult question that all this work raises and *this* is the question that is regularly shirked."
+
+  - Stephen Senn (1998)
+ 
+  - Mathematics:  governess or handmaiden?  *Journal of the Royal Statistical Society D*, 47 (2):  251-259.
+
 ## Laboratory quality control
 
 - "Most directors of research hold to the opinion, and rightly so, that they are engaged in research, not production.  Deviating from this would be bad for all concerned; yet it is helpful to realize what is the greatest production activity of any research group it is the *production of measurement*.  There are few research projects in which actual measurement, together with the preapration of instruments and samples, does not represent a substantial part of the effort.  Most of this measurement is of a production character --- yet too often it is not operated as such.  Sometimes it is operated too much so, but this is another matter."
@@ -758,6 +766,14 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
 See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/en/some-general-remarks-consulting), Statistical Society of Canada *Liaison*, 13.1 (1991).  For those seeking a statistical consultant, see [When you consult a statistician...what to expect](https://community.amstat.org/cnsl/forclients/expect-content).
 
+## Foundations of statistics
+
+- "Statisticians spend a large amount of time discussing the foundations of the subject and then build the house elsewhere."
+
+  - Attributed to Michael Sampford (1975)
+ 
+  - 40th session of the International Statistical Institute (Warsaw), according to A. M. Herzberg (1998), Discussion of the papers on 'statistics and mathematics', *Journal of the Royal Statistical Society D*, 47 (2):  279.
+
 ## Probability
 
 - "It is curious how often the most acute and powerful intellects have gone astray in the calculation of probabilities."
@@ -895,6 +911,12 @@ See also Sir David R. Cox's [Some general remarks on consulting](https://ssc.ca/
   - G. E. P. Box (2006)
 
   - *Improving Almost Anything:  Ideas and Essays*, revised edition.  Wiley.  
+
+- "The mathematics of statistics, in fact, has a way of becoming interesting to the mathematician just at the point at which it ceases to be useful to the statistician."
+
+  - Michael Healy (1998)
+ 
+  - Discussion of the papers on 'statistics and mathematics'.  *Journal of the Royal Statistical Society D*, 47 (2):  279.
 
 - "If we waited for all the epsilons and deltas to be supplied before we used techniques that statistical common sense suggests, we would be technical paupers. Mathematical rigor is desirable, but its absence is not a just basis for rejection. To adopt a stricter policy would be to succumb to a different kind of rigor."
 
