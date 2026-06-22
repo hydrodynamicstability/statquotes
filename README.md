@@ -679,6 +679,12 @@ seems to drive away from the truth into a fantasy land beyond objective reality.
 
 ## Statistical consulting
 
+- "No one, not even our hypothetical critic, questions that statisticians have a useful auxiliary role to play in such investigations.  But the heart of his question and of my inquiry is why should any person of spirit, of ambition, of high intellectual standards, take any pride or receive any real stimulation and satisfaction from serving an auxiliary role on someone else's problem."
+
+  - Jerome Cornfield (1975)
+ 
+  - A statistician's apology.  *Journal of the American Statistical Association*, 70:  7-14.
+
 - "A simple and almost ludicrous definition of the error of the third kind is *the error committed by giving the right answer to the wrong problem*.  In defining it this way we are allowing the statistician the benefit of the doubt by rejecting the possibility that he would give the wrong answer to the wrong question."
 
   - Allyn W. Kimball (1957)
